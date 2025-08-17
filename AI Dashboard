@@ -1,28 +1,3753 @@
+{
+  "financial_performance": {
+    "top_market_caps": [
+      {
+        "symbol": "META",
+        "company_name": "Meta Platforms Inc",
+        "current_price": 785.23,
+        "category": "Cloud Provider"
+      },
+      {
+        "symbol": "ASML",
+        "company_name": "ASML Holding NV",
+        "current_price": 742.16,
+        "category": "Equipment"
+      },
+      {
+        "symbol": "MSFT",
+        "company_name": "Microsoft Corporation",
+        "current_price": 520.17,
+        "category": "Cloud Provider"
+      },
+      {
+        "symbol": "AVGO",
+        "company_name": "Broadcom Inc",
+        "current_price": 306.34,
+        "category": "Semiconductor Designer"
+      },
+      {
+        "symbol": "TSM",
+        "company_name": "Taiwan Semiconductor Manufacturing",
+        "current_price": 238.88,
+        "category": "Foundry"
+      },
+      {
+        "symbol": "AAPL",
+        "company_name": "Apple Inc",
+        "current_price": 231.59,
+        "category": "Device Manufacturer"
+      },
+      {
+        "symbol": "AMZN",
+        "company_name": "Amazon.com Inc",
+        "current_price": 231.03,
+        "category": "Cloud Provider"
+      },
+      {
+        "symbol": "GOOGL",
+        "company_name": "Alphabet Inc",
+        "current_price": 203.9,
+        "category": "Cloud Provider"
+      },
+      {
+        "symbol": "NVDA",
+        "company_name": "NVIDIA Corporation",
+        "current_price": 180.45,
+        "category": "Semiconductor Designer"
+      },
+      {
+        "symbol": "AMD",
+        "company_name": "Advanced Micro Devices",
+        "current_price": 177.51,
+        "category": "Semiconductor Designer"
+      }
+    ],
+    "growth_leaders": [
+      {
+        "symbol": "AVGO",
+        "company_name": "Broadcom Inc",
+        "price_change_1y": 94.26722784896847,
+        "category": "Semiconductor Designer",
+        "logistics_opportunity_score": 61.128906396027055
+      },
+      {
+        "symbol": "NVDA",
+        "company_name": "NVIDIA Corporation",
+        "price_change_1y": 52.82011699697008,
+        "category": "Semiconductor Designer",
+        "logistics_opportunity_score": 68.28657087150953
+      },
+      {
+        "symbol": "META",
+        "company_name": "Meta Platforms Inc",
+        "price_change_1y": 49.06788023223856,
+        "category": "Cloud Provider",
+        "logistics_opportunity_score": 62.966578280835584
+      },
+      {
+        "symbol": "TSM",
+        "company_name": "Taiwan Semiconductor Manufacturing",
+        "price_change_1y": 40.54245053080333,
+        "category": "Foundry",
+        "logistics_opportunity_score": 64.71390198414016
+      },
+      {
+        "symbol": "AMZN",
+        "company_name": "Amazon.com Inc",
+        "price_change_1y": 35.8201002289805,
+        "category": "Cloud Provider",
+        "logistics_opportunity_score": 58.37164464317412
+      },
+      {
+        "symbol": "GOOGL",
+        "company_name": "Alphabet Inc",
+        "price_change_1y": 27.143480766142137,
+        "category": "Cloud Provider",
+        "logistics_opportunity_score": 64.58759062391766
+      },
+      {
+        "symbol": "AMD",
+        "company_name": "Advanced Micro Devices",
+        "price_change_1y": 26.11722522688166,
+        "category": "Semiconductor Designer",
+        "logistics_opportunity_score": 55.85290177063994
+      },
+      {
+        "symbol": "MSFT",
+        "company_name": "Microsoft Corporation",
+        "price_change_1y": 24.782901019263427,
+        "category": "Cloud Provider",
+        "logistics_opportunity_score": 65.6088674550271
+      },
+      {
+        "symbol": "INTC",
+        "company_name": "Intel Corporation",
+        "price_change_1y": 23.29316953753594,
+        "category": "Semiconductor IDM",
+        "logistics_opportunity_score": 39.66836853347428
+      },
+      {
+        "symbol": "MU",
+        "company_name": "Micron Technology",
+        "price_change_1y": 20.37645487328413,
+        "category": "Memory",
+        "logistics_opportunity_score": 45.67276278319472
+      }
+    ],
+    "volatility_analysis": {
+      "low_volatility": [
+        "NVDA",
+        "TSM",
+        "AVGO",
+        "MSFT",
+        "GOOGL",
+        "AAPL"
+      ],
+      "medium_volatility": [
+        "AMD",
+        "QCOM",
+        "MU",
+        "AMZN",
+        "META",
+        "ASML",
+        "LRCX"
+      ],
+      "high_volatility": [
+        "INTC",
+        "AMAT"
+      ],
+      "avg_volatility_by_category": {
+        "Cloud Provider": 26.897084693477787,
+        "Device Manufacturer": 24.23557956248727,
+        "Equipment": 41.397458829167306,
+        "Foundry": 28.08556597508442,
+        "Memory": 44.505981924940215,
+        "Semiconductor Designer": 31.54712339789824,
+        "Semiconductor IDM": 50.72342317033023
+      }
+    },
+    "performance_tiers": {
+      "symbol": {
+        "Declining": 3,
+        "Stable": 5,
+        "Growing": 5,
+        "High Growth": 2
+      },
+      "logistics_opportunity_score": {
+        "Declining": 37.9077509274867,
+        "Stable": 49.902975025921364,
+        "Growing": 61.29852346054149,
+        "High Growth": 64.70773863376829
+      },
+      "current_price": {
+        "Declining": 353.9216666666666,
+        "Stable": 199.34,
+        "Growing": 327.31,
+        "High Growth": 243.39499999999998
+      }
+    }
+  },
+  "logistics_opportunities": {
+    "opportunity_ranking": [
+      {
+        "symbol": "NVDA",
+        "company_name": "NVIDIA Corporation",
+        "category": "Semiconductor Designer",
+        "logistics_opportunity_score": 68.28657087150953,
+        "growth_trajectory": "Accelerating",
+        "price_change_1y": 52.82011699697008,
+        "current_price": 180.45
+      },
+      {
+        "symbol": "MSFT",
+        "company_name": "Microsoft Corporation",
+        "category": "Cloud Provider",
+        "logistics_opportunity_score": 65.6088674550271,
+        "growth_trajectory": "Growing",
+        "price_change_1y": 24.782901019263427,
+        "current_price": 520.17
+      },
+      {
+        "symbol": "TSM",
+        "company_name": "Taiwan Semiconductor Manufacturing",
+        "category": "Foundry",
+        "logistics_opportunity_score": 64.71390198414016,
+        "growth_trajectory": "Accelerating",
+        "price_change_1y": 40.54245053080333,
+        "current_price": 238.88
+      },
+      {
+        "symbol": "GOOGL",
+        "company_name": "Alphabet Inc",
+        "category": "Cloud Provider",
+        "logistics_opportunity_score": 64.58759062391766,
+        "growth_trajectory": "Growing",
+        "price_change_1y": 27.143480766142137,
+        "current_price": 203.9
+      },
+      {
+        "symbol": "META",
+        "company_name": "Meta Platforms Inc",
+        "category": "Cloud Provider",
+        "logistics_opportunity_score": 62.966578280835584,
+        "growth_trajectory": "Accelerating",
+        "price_change_1y": 49.06788023223856,
+        "current_price": 785.23
+      },
+      {
+        "symbol": "AVGO",
+        "company_name": "Broadcom Inc",
+        "category": "Semiconductor Designer",
+        "logistics_opportunity_score": 61.128906396027055,
+        "growth_trajectory": "Accelerating",
+        "price_change_1y": 94.26722784896847,
+        "current_price": 306.34
+      },
+      {
+        "symbol": "AMZN",
+        "company_name": "Amazon.com Inc",
+        "category": "Cloud Provider",
+        "logistics_opportunity_score": 58.37164464317412,
+        "growth_trajectory": "Accelerating",
+        "price_change_1y": 35.8201002289805,
+        "current_price": 231.03
+      },
+      {
+        "symbol": "AMD",
+        "company_name": "Advanced Micro Devices",
+        "category": "Semiconductor Designer",
+        "logistics_opportunity_score": 55.85290177063994,
+        "growth_trajectory": "Growing",
+        "price_change_1y": 26.11722522688166,
+        "current_price": 177.51
+      },
+      {
+        "symbol": "LRCX",
+        "company_name": "Lam Research Corp",
+        "category": "Equipment",
+        "logistics_opportunity_score": 51.16320687783789,
+        "growth_trajectory": "Growing",
+        "price_change_1y": 17.717347678577504,
+        "current_price": 99.51
+      },
+      {
+        "symbol": "AAPL",
+        "company_name": "Apple Inc",
+        "category": "Device Manufacturer",
+        "logistics_opportunity_score": 47.40166948007285,
+        "growth_trajectory": "Stable",
+        "price_change_1y": 4.451558300039324,
+        "current_price": 231.59
+      },
+      {
+        "symbol": "MU",
+        "company_name": "Micron Technology",
+        "category": "Memory",
+        "logistics_opportunity_score": 45.67276278319472,
+        "growth_trajectory": "Growing",
+        "price_change_1y": 20.37645487328413,
+        "current_price": 120.87
+      },
+      {
+        "symbol": "QCOM",
+        "company_name": "Qualcomm Inc",
+        "category": "Semiconductor Designer",
+        "logistics_opportunity_score": 42.257421298895466,
+        "growth_trajectory": "Declining",
+        "price_change_1y": -5.563857692228342,
+        "current_price": 157.85
+      },
+      {
+        "symbol": "ASML",
+        "company_name": "ASML Holding NV",
+        "category": "Equipment",
+        "logistics_opportunity_score": 39.68810262688598,
+        "growth_trajectory": "Declining",
+        "price_change_1y": -15.623370389879591,
+        "current_price": 742.16
+      },
+      {
+        "symbol": "INTC",
+        "company_name": "Intel Corporation",
+        "category": "Semiconductor IDM",
+        "logistics_opportunity_score": 39.66836853347428,
+        "growth_trajectory": "Growing",
+        "price_change_1y": 23.29316953753594,
+        "current_price": 24.56
+      },
+      {
+        "symbol": "AMAT",
+        "company_name": "Applied Materials Inc",
+        "category": "Equipment",
+        "logistics_opportunity_score": 31.777728856678664,
+        "growth_trajectory": "Declining",
+        "price_change_1y": -19.773847845289215,
+        "current_price": 161.755
+      }
+    ],
+    "category_analysis": {
+      "Semiconductor Designer": {
+        "avg_opportunity_score": 56.881450084267996,
+        "max_opportunity_score": 68.28657087150953,
+        "company_count": 4,
+        "avg_growth": 41.91017809514797,
+        "avg_price": 205.53749999999997
+      },
+      "Semiconductor IDM": {
+        "avg_opportunity_score": 39.66836853347428,
+        "max_opportunity_score": 39.66836853347428,
+        "company_count": 1,
+        "avg_growth": 23.29316953753594,
+        "avg_price": 24.56
+      },
+      "Foundry": {
+        "avg_opportunity_score": 64.71390198414016,
+        "max_opportunity_score": 64.71390198414016,
+        "company_count": 1,
+        "avg_growth": 40.54245053080333,
+        "avg_price": 238.88
+      },
+      "Memory": {
+        "avg_opportunity_score": 45.67276278319472,
+        "max_opportunity_score": 45.67276278319472,
+        "company_count": 1,
+        "avg_growth": 20.37645487328413,
+        "avg_price": 120.87
+      },
+      "Cloud Provider": {
+        "avg_opportunity_score": 62.88367025073862,
+        "max_opportunity_score": 65.6088674550271,
+        "company_count": 4,
+        "avg_growth": 34.203590561656156,
+        "avg_price": 435.0825
+      },
+      "Device Manufacturer": {
+        "avg_opportunity_score": 47.40166948007285,
+        "max_opportunity_score": 47.40166948007285,
+        "company_count": 1,
+        "avg_growth": 4.451558300039324,
+        "avg_price": 231.59
+      },
+      "Equipment": {
+        "avg_opportunity_score": 40.87634612046751,
+        "max_opportunity_score": 51.16320687783789,
+        "company_count": 3,
+        "avg_growth": -5.893290185530435,
+        "avg_price": 334.47499999999997
+      }
+    },
+    "growth_trajectory_analysis": {
+      "symbol": {
+        "Accelerating": 5,
+        "Declining": 3,
+        "Growing": 6,
+        "Stable": 1
+      },
+      "logistics_opportunity_score": {
+        "Accelerating": 63.09352043513729,
+        "Declining": 37.9077509274867,
+        "Growing": 53.75894967401526,
+        "Stable": 47.40166948007285
+      },
+      "price_change_1y": {
+        "Accelerating": 54.50355516759218,
+        "Declining": -13.653691975799049,
+        "Growing": 23.2384298502808,
+        "Stable": 4.451558300039324
+      }
+    },
+    "strategic_recommendations": {
+      "immediate_priorities": [
+        {
+          "company": "NVIDIA Corporation",
+          "symbol": "NVDA",
+          "reason": "High opportunity score (68) with strong growth (52.8%)",
+          "category": "Semiconductor Designer"
+        },
+        {
+          "company": "Taiwan Semiconductor Manufacturing",
+          "symbol": "TSM",
+          "reason": "High opportunity score (65) with strong growth (40.5%)",
+          "category": "Foundry"
+        },
+        {
+          "company": "Broadcom Inc",
+          "symbol": "AVGO",
+          "reason": "High opportunity score (61) with strong growth (94.3%)",
+          "category": "Semiconductor Designer"
+        },
+        {
+          "company": "Microsoft Corporation",
+          "symbol": "MSFT",
+          "reason": "High opportunity score (66) with strong growth (24.8%)",
+          "category": "Cloud Provider"
+        },
+        {
+          "company": "Alphabet Inc",
+          "symbol": "GOOGL",
+          "reason": "High opportunity score (65) with strong growth (27.1%)",
+          "category": "Cloud Provider"
+        },
+        {
+          "company": "Meta Platforms Inc",
+          "symbol": "META",
+          "reason": "High opportunity score (63) with strong growth (49.1%)",
+          "category": "Cloud Provider"
+        }
+      ],
+      "medium_term_opportunities": [
+        {
+          "company": "Apple Inc",
+          "symbol": "AAPL",
+          "reason": "Stable growth (4.5%) with good opportunity score (47)",
+          "category": "Device Manufacturer"
+        },
+        {
+          "company": "Lam Research Corp",
+          "symbol": "LRCX",
+          "reason": "Stable growth (17.7%) with good opportunity score (51)",
+          "category": "Equipment"
+        }
+      ],
+      "strategic_partnerships": [
+        {
+          "company": "Advanced Micro Devices",
+          "symbol": "AMD",
+          "reason": "Large scale operations ($178 price) with solid opportunity (56)",
+          "category": "Semiconductor Designer"
+        },
+        {
+          "company": "NVIDIA Corporation",
+          "symbol": "NVDA",
+          "reason": "Large scale operations ($180 price) with solid opportunity (68)",
+          "category": "Semiconductor Designer"
+        },
+        {
+          "company": "Taiwan Semiconductor Manufacturing",
+          "symbol": "TSM",
+          "reason": "Large scale operations ($239 price) with solid opportunity (65)",
+          "category": "Foundry"
+        },
+        {
+          "company": "Broadcom Inc",
+          "symbol": "AVGO",
+          "reason": "Large scale operations ($306 price) with solid opportunity (61)",
+          "category": "Semiconductor Designer"
+        },
+        {
+          "company": "Microsoft Corporation",
+          "symbol": "MSFT",
+          "reason": "Large scale operations ($520 price) with solid opportunity (66)",
+          "category": "Cloud Provider"
+        },
+        {
+          "company": "Amazon.com Inc",
+          "symbol": "AMZN",
+          "reason": "Large scale operations ($231 price) with solid opportunity (58)",
+          "category": "Cloud Provider"
+        },
+        {
+          "company": "Alphabet Inc",
+          "symbol": "GOOGL",
+          "reason": "Large scale operations ($204 price) with solid opportunity (65)",
+          "category": "Cloud Provider"
+        },
+        {
+          "company": "Meta Platforms Inc",
+          "symbol": "META",
+          "reason": "Large scale operations ($785 price) with solid opportunity (63)",
+          "category": "Cloud Provider"
+        }
+      ],
+      "risk_considerations": [
+        {
+          "company": "Qualcomm Inc",
+          "symbol": "QCOM",
+          "reason": "Declining performance (-5.6%) or high volatility",
+          "category": "Semiconductor Designer"
+        },
+        {
+          "company": "ASML Holding NV",
+          "symbol": "ASML",
+          "reason": "Declining performance (-15.6%) or high volatility",
+          "category": "Equipment"
+        },
+        {
+          "company": "Applied Materials Inc",
+          "symbol": "AMAT",
+          "reason": "Declining performance (-19.8%) or high volatility",
+          "category": "Equipment"
+        }
+      ]
+    },
+    "expansion_indicators": {
+      "high_growth_companies": [
+        {
+          "symbol": "NVDA",
+          "company": "NVIDIA Corporation",
+          "growth": 52.82011699697008,
+          "category": "Semiconductor Designer"
+        },
+        {
+          "symbol": "TSM",
+          "company": "Taiwan Semiconductor Manufacturing",
+          "growth": 40.54245053080333,
+          "category": "Foundry"
+        },
+        {
+          "symbol": "AVGO",
+          "company": "Broadcom Inc",
+          "growth": 94.26722784896847,
+          "category": "Semiconductor Designer"
+        },
+        {
+          "symbol": "AMZN",
+          "company": "Amazon.com Inc",
+          "growth": 35.8201002289805,
+          "category": "Cloud Provider"
+        },
+        {
+          "symbol": "META",
+          "company": "Meta Platforms Inc",
+          "growth": 49.06788023223856,
+          "category": "Cloud Provider"
+        }
+      ],
+      "volume_surge_companies": [],
+      "price_momentum_companies": [
+        {
+          "symbol": "AMD",
+          "company": "Advanced Micro Devices",
+          "momentum": 126.96585677633348,
+          "category": "Semiconductor Designer"
+        },
+        {
+          "symbol": "NVDA",
+          "company": "NVIDIA Corporation",
+          "momentum": 87.38316846288858,
+          "category": "Semiconductor Designer"
+        },
+        {
+          "symbol": "INTC",
+          "company": "Intel Corporation",
+          "momentum": 35.466081648201786,
+          "category": "Semiconductor IDM"
+        },
+        {
+          "symbol": "TSM",
+          "company": "Taiwan Semiconductor Manufacturing",
+          "momentum": 68.97503935314907,
+          "category": "Foundry"
+        },
+        {
+          "symbol": "QCOM",
+          "company": "Qualcomm Inc",
+          "momentum": 26.6244195944095,
+          "category": "Semiconductor Designer"
+        },
+        {
+          "symbol": "AVGO",
+          "company": "Broadcom Inc",
+          "momentum": 96.3340375149307,
+          "category": "Semiconductor Designer"
+        },
+        {
+          "symbol": "MU",
+          "company": "Micron Technology",
+          "momentum": 84.42172880401385,
+          "category": "Memory"
+        },
+        {
+          "symbol": "MSFT",
+          "company": "Microsoft Corporation",
+          "momentum": 46.70859276057902,
+          "category": "Cloud Provider"
+        },
+        {
+          "symbol": "AMZN",
+          "company": "Amazon.com Inc",
+          "momentum": 35.37442506840347,
+          "category": "Cloud Provider"
+        },
+        {
+          "symbol": "GOOGL",
+          "company": "Alphabet Inc",
+          "momentum": 40.9122309583859,
+          "category": "Cloud Provider"
+        },
+        {
+          "symbol": "META",
+          "company": "Meta Platforms Inc",
+          "momentum": 53.83092598502513,
+          "category": "Cloud Provider"
+        },
+        {
+          "symbol": "AAPL",
+          "company": "Apple Inc",
+          "momentum": 34.31736387734312,
+          "category": "Device Manufacturer"
+        },
+        {
+          "symbol": "ASML",
+          "company": "ASML Holding NV",
+          "momentum": 24.655252906799724,
+          "category": "Equipment"
+        },
+        {
+          "symbol": "AMAT",
+          "company": "Applied Materials Inc",
+          "momentum": 25.434232386281145,
+          "category": "Equipment"
+        },
+        {
+          "symbol": "LRCX",
+          "company": "Lam Research Corp",
+          "momentum": 65.16182927175181,
+          "category": "Equipment"
+        }
+      ],
+      "category_expansion_trends": {
+        "price_change_1y": {
+          "Cloud Provider": 34.2,
+          "Device Manufacturer": 4.45,
+          "Equipment": -5.89,
+          "Foundry": 40.54,
+          "Memory": 20.38,
+          "Semiconductor Designer": 41.91,
+          "Semiconductor IDM": 23.29
+        },
+        "price_change_3m": {
+          "Cloud Provider": 44.21,
+          "Device Manufacturer": 34.32,
+          "Equipment": 38.42,
+          "Foundry": 68.98,
+          "Memory": 84.42,
+          "Semiconductor Designer": 84.33,
+          "Semiconductor IDM": 35.47
+        },
+        "logistics_opportunity_score": {
+          "Cloud Provider": 62.88,
+          "Device Manufacturer": 47.4,
+          "Equipment": 40.88,
+          "Foundry": 64.71,
+          "Memory": 45.67,
+          "Semiconductor Designer": 56.88,
+          "Semiconductor IDM": 39.67
+        }
+      }
+    }
+  },
+  "quarterly_analysis": {
+    "quarterly_trends": {
+      "AMD": {
+        "mean_return": 0.2433602053695643,
+        "std_return": 21.272578443068834,
+        "count": 7,
+        "opportunity_score": 55.85290177063994
+      },
+      "NVDA": {
+        "mean_return": 7.712342132641824,
+        "std_return": 38.476250583775915,
+        "count": 7,
+        "opportunity_score": 68.28657087150953
+      },
+      "INTC": {
+        "mean_return": 1.8157079201448172,
+        "std_return": 30.824060709065577,
+        "count": 7,
+        "opportunity_score": 39.66836853347428
+      },
+      "TSM": {
+        "mean_return": 3.3641890566877746,
+        "std_return": 27.05318605655215,
+        "count": 7,
+        "opportunity_score": 64.71390198414016
+      },
+      "QCOM": {
+        "mean_return": -0.1244444393844282,
+        "std_return": 19.041432629391505,
+        "count": 7,
+        "opportunity_score": 42.257421298895466
+      },
+      "AVGO": {
+        "mean_return": 4.824469082749999,
+        "std_return": 32.43189015116288,
+        "count": 7,
+        "opportunity_score": 61.128906396027055
+      },
+      "MU": {
+        "mean_return": 0.7144289490326321,
+        "std_return": 27.34646652511065,
+        "count": 7,
+        "opportunity_score": 45.67276278319472
+      },
+      "MSFT": {
+        "mean_return": -1.1015042905420844,
+        "std_return": 13.568720615311241,
+        "count": 7,
+        "opportunity_score": 65.6088674550271
+      },
+      "AMZN": {
+        "mean_return": 1.0297463163856595,
+        "std_return": 19.95060458391503,
+        "count": 7,
+        "opportunity_score": 58.37164464317412
+      },
+      "GOOGL": {
+        "mean_return": 0.4822087295560366,
+        "std_return": 14.24637743290108,
+        "count": 7,
+        "opportunity_score": 64.58759062391766
+      },
+      "META": {
+        "mean_return": 3.4296847579383347,
+        "std_return": 30.39437942012552,
+        "count": 7,
+        "opportunity_score": 62.966578280835584
+      },
+      "AAPL": {
+        "mean_return": -0.13966051809659227,
+        "std_return": 12.083013255054084,
+        "count": 7,
+        "opportunity_score": 47.40166948007285
+      },
+      "ASML": {
+        "mean_return": 1.1949028098377308,
+        "std_return": 19.38625418544233,
+        "count": 7,
+        "opportunity_score": 39.68810262688598
+      },
+      "AMAT": {
+        "mean_return": -0.4711087620522818,
+        "std_return": 13.463673693892884,
+        "count": 7,
+        "opportunity_score": 31.777728856678664
+      },
+      "LRCX": {
+        "mean_return": 0.3621181752284888,
+        "std_return": 16.940280275572658,
+        "count": 7,
+        "opportunity_score": 51.16320687783789
+      }
+    },
+    "seasonal_patterns": {},
+    "growth_consistency": {
+      "AMD": {
+        "consistency_score": 42.857142857142854,
+        "positive_quarters": 3,
+        "total_quarters": 7,
+        "avg_return": 0.2433602053695643
+      },
+      "NVDA": {
+        "consistency_score": 57.14285714285714,
+        "positive_quarters": 4,
+        "total_quarters": 7,
+        "avg_return": 7.712342132641824
+      },
+      "INTC": {
+        "consistency_score": 42.857142857142854,
+        "positive_quarters": 3,
+        "total_quarters": 7,
+        "avg_return": 1.8157079201448172
+      },
+      "TSM": {
+        "consistency_score": 71.42857142857143,
+        "positive_quarters": 5,
+        "total_quarters": 7,
+        "avg_return": 3.3641890566877746
+      },
+      "QCOM": {
+        "consistency_score": 42.857142857142854,
+        "positive_quarters": 3,
+        "total_quarters": 7,
+        "avg_return": -0.1244444393844282
+      },
+      "AVGO": {
+        "consistency_score": 71.42857142857143,
+        "positive_quarters": 5,
+        "total_quarters": 7,
+        "avg_return": 4.824469082749999
+      },
+      "MU": {
+        "consistency_score": 42.857142857142854,
+        "positive_quarters": 3,
+        "total_quarters": 7,
+        "avg_return": 0.7144289490326321
+      },
+      "MSFT": {
+        "consistency_score": 71.42857142857143,
+        "positive_quarters": 5,
+        "total_quarters": 7,
+        "avg_return": -1.1015042905420844
+      },
+      "AMZN": {
+        "consistency_score": 57.14285714285714,
+        "positive_quarters": 4,
+        "total_quarters": 7,
+        "avg_return": 1.0297463163856595
+      },
+      "GOOGL": {
+        "consistency_score": 57.14285714285714,
+        "positive_quarters": 4,
+        "total_quarters": 7,
+        "avg_return": 0.4822087295560366
+      },
+      "META": {
+        "consistency_score": 71.42857142857143,
+        "positive_quarters": 5,
+        "total_quarters": 7,
+        "avg_return": 3.4296847579383347
+      },
+      "AAPL": {
+        "consistency_score": 57.14285714285714,
+        "positive_quarters": 4,
+        "total_quarters": 7,
+        "avg_return": -0.13966051809659227
+      },
+      "ASML": {
+        "consistency_score": 42.857142857142854,
+        "positive_quarters": 3,
+        "total_quarters": 7,
+        "avg_return": 1.1949028098377308
+      },
+      "AMAT": {
+        "consistency_score": 28.57142857142857,
+        "positive_quarters": 2,
+        "total_quarters": 7,
+        "avg_return": -0.4711087620522818
+      },
+      "LRCX": {
+        "consistency_score": 57.14285714285714,
+        "positive_quarters": 4,
+        "total_quarters": 7,
+        "avg_return": 0.3621181752284888
+      }
+    },
+    "quarterly_rankings": {}
+  }
+}
+{
+  "companies": [
+    {
+      "symbol": "AMD",
+      "company_name": "Advanced Micro Devices",
+      "category": "Semiconductor Designer",
+      "priority": "High",
+      "collection_date": "2025-08-17T17:56:01.111778",
+      "current_price": 177.51,
+      "market_cap": NaN,
+      "volume": 50736468,
+      "avg_volume": NaN,
+      "day_high": 180.0,
+      "day_low": 176.25,
+      "year_high": 186.65,
+      "year_low": 76.48,
+      "price_change_1d": -1.901079027036517,
+      "price_change_1w": 2.9640375819385496,
+      "price_change_1m": 31.68396920486656,
+      "price_change_3m": 126.96585677633348,
+      "price_change_6m": 25.777643566463144,
+      "price_change_1y": 26.11722522688166,
+      "price_change_2y": NaN,
+      "volatility_30d": 44.33270183784844,
+      "volatility_90d": 58.0107402912433,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'increasing', 'avg_30d': np.float64(64240486.666666664), 'recent_avg': np.float64(69786360.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -8.517535105828957, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': 3.5985851014449772, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': -21.256008752210786, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 2.04618464142984, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -8.1026399617275, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': -10.714696480933851, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 44.64963199541323, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 55.85290177063994,
+      "growth_trajectory": "Growing",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "NVDA",
+      "company_name": "NVIDIA Corporation",
+      "category": "Semiconductor Designer",
+      "priority": "High",
+      "collection_date": "2025-08-17T17:56:03.886578",
+      "current_price": 180.45,
+      "market_cap": NaN,
+      "volume": 156602161,
+      "avg_volume": NaN,
+      "day_high": 181.9,
+      "day_low": 178.045,
+      "year_high": 184.48,
+      "year_low": 86.62,
+      "price_change_1d": -0.8625465813464368,
+      "price_change_1w": -0.177024570811221,
+      "price_change_1m": 14.03563617547877,
+      "price_change_3m": 87.38316846288858,
+      "price_change_6m": 32.664307660793604,
+      "price_change_1y": 52.82011699697008,
+      "price_change_2y": NaN,
+      "volatility_30d": 23.5050087081574,
+      "volatility_90d": 44.822678387756376,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'stable', 'avg_30d': np.float64(157992940.0), 'recent_avg': np.float64(149897800.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -67.88330722209564, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -2.4847043971025777, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': -6.36589629106144, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 25.584341960209038, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': 29.252592278708228, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 26.658170051685214, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 49.22519854814995, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 68.28657087150953,
+      "growth_trajectory": "Accelerating",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "INTC",
+      "company_name": "Intel Corporation",
+      "category": "Semiconductor IDM",
+      "priority": "Medium",
+      "collection_date": "2025-08-17T17:56:06.933437",
+      "current_price": 24.56,
+      "market_cap": NaN,
+      "volume": 310161102,
+      "avg_volume": NaN,
+      "day_high": 25.645,
+      "day_low": 24.11,
+      "year_high": 27.55,
+      "year_low": 17.67,
+      "price_change_1d": 2.933775514184726,
+      "price_change_1w": 24.228623658416154,
+      "price_change_1m": 11.636361208829014,
+      "price_change_3m": 35.466081648201786,
+      "price_change_6m": -1.246487184680655,
+      "price_change_1y": 23.29316953753594,
+      "price_change_2y": NaN,
+      "volatility_30d": 50.72342317033023,
+      "volatility_90d": 56.4571914038349,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'increasing', 'avg_30d': np.float64(99467390.0), 'recent_avg': np.float64(178642280.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': 54.80147283243387, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -8.220341113133493, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': -2.3178785988376855, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 21.285139331721343, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -35.845408805943215, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': -28.058388909094685, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 11.065360703867588, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 39.66836853347428,
+      "growth_trajectory": "Growing",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "TSM",
+      "company_name": "Taiwan Semiconductor Manufacturing",
+      "category": "Foundry",
+      "priority": "High",
+      "collection_date": "2025-08-17T17:56:12.396411",
+      "current_price": 238.88,
+      "market_cap": NaN,
+      "volume": 7021597,
+      "avg_volume": NaN,
+      "day_high": 240.79,
+      "day_low": 237.26,
+      "year_high": 248.28,
+      "year_low": 134.25,
+      "price_change_1d": -0.8796660237292531,
+      "price_change_1w": -1.5415012404763069,
+      "price_change_1m": 4.237032243072638,
+      "price_change_3m": 68.97503935314907,
+      "price_change_6m": 29.068512275501117,
+      "price_change_1y": 40.54245053080333,
+      "price_change_2y": NaN,
+      "volatility_30d": 28.08556597508442,
+      "volatility_90d": 37.102100682530775,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'stable', 'avg_30d': np.float64(11538220.0), 'recent_avg': np.float64(8546500.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -52.744311501160944, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -4.747421758480078, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 6.325279946695689, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 12.825794490317666, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': 11.85916724868312, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 19.129747795131948, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 30.901067175627027, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 64.71390198414016,
+      "growth_trajectory": "Accelerating",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "QCOM",
+      "company_name": "Qualcomm Inc",
+      "category": "Semiconductor Designer",
+      "priority": "Medium",
+      "collection_date": "2025-08-17T17:56:15.388417",
+      "current_price": 157.85,
+      "market_cap": NaN,
+      "volume": 7583742,
+      "avg_volume": NaN,
+      "day_high": 159.25,
+      "day_low": 156.691,
+      "year_high": 182.1,
+      "year_low": 120.8,
+      "price_change_1d": -0.1518060850998196,
+      "price_change_1w": 8.190550176108815,
+      "price_change_1m": -0.1518060850998196,
+      "price_change_3m": 26.6244195944095,
+      "price_change_6m": -0.6107550535008744,
+      "price_change_1y": -5.563857692228342,
+      "price_change_2y": NaN,
+      "volatility_30d": 31.17304903565476,
+      "volatility_90d": 41.51648864308366,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'stable', 'avg_30d': np.float64(8009990.0), 'recent_avg': np.float64(7299740.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -27.77049080270236, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -11.455609485557396, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 5.397461518737375, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': -2.23750545674035, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -11.54681017265517, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 25.94642073885533, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 20.79542258437158, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 42.257421298895466,
+      "growth_trajectory": "Declining",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "AVGO",
+      "company_name": "Broadcom Inc",
+      "category": "Semiconductor Designer",
+      "priority": "Medium",
+      "collection_date": "2025-08-17T17:56:17.679002",
+      "current_price": 306.34,
+      "market_cap": NaN,
+      "volume": 22806938,
+      "avg_volume": NaN,
+      "day_high": 311.5,
+      "day_low": 299.76,
+      "year_high": 317.35,
+      "year_low": 134.9,
+      "price_change_1d": -1.5711899482123883,
+      "price_change_1w": 0.8493503059393137,
+      "price_change_1m": 11.72952240178177,
+      "price_change_3m": 96.3340375149307,
+      "price_change_6m": 85.86335561512674,
+      "price_change_1y": 94.26722784896847,
+      "price_change_2y": NaN,
+      "volatility_30d": 27.177734009932365,
+      "volatility_90d": 45.46252594544336,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'increasing', 'avg_30d': np.float64(16968270.0), 'recent_avg': np.float64(17178380.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -63.56283479345636, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -1.9009581202407544, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 32.243781450362526, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 11.750902715714123, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': 14.26562872304961, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 10.256864915921836, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 30.71789868789902, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 61.128906396027055,
+      "growth_trajectory": "Accelerating",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "MU",
+      "company_name": "Micron Technology",
+      "category": "Memory",
+      "priority": "Medium",
+      "collection_date": "2025-08-17T17:56:20.435592",
+      "current_price": 120.87,
+      "market_cap": NaN,
+      "volume": 18986654,
+      "avg_volume": NaN,
+      "day_high": 123.38,
+      "day_low": 119.44,
+      "year_high": 129.85,
+      "year_low": 61.54,
+      "price_change_1d": -3.527813980882122,
+      "price_change_1w": 8.045052095321395,
+      "price_change_1m": 0.7921986258691701,
+      "price_change_3m": 84.42172880401385,
+      "price_change_6m": 15.687211775496896,
+      "price_change_1y": 20.37645487328413,
+      "price_change_2y": NaN,
+      "volatility_30d": 44.505981924940215,
+      "volatility_90d": 52.25625483425434,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'increasing', 'avg_30d': np.float64(21560726.666666668), 'recent_avg': np.float64(22133300.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -34.469386509486604, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -1.5273278681046911, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': -4.399617577509629, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 3.6749274747852354, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -19.549711059828734, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 53.08475337581764, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 8.187364807555205, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 45.67276278319472,
+      "growth_trajectory": "Growing",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "MSFT",
+      "company_name": "Microsoft Corporation",
+      "category": "Cloud Provider",
+      "priority": "High",
+      "collection_date": "2025-08-17T17:56:23.796296",
+      "current_price": 520.17,
+      "market_cap": NaN,
+      "volume": 25213272,
+      "avg_volume": NaN,
+      "day_high": 526.1,
+      "day_low": 519.09,
+      "year_high": 555.45,
+      "year_low": 344.79,
+      "price_change_1d": -0.4421217357498184,
+      "price_change_1w": -0.1286467841878125,
+      "price_change_1m": 4.510564501003079,
+      "price_change_3m": 46.70859276057902,
+      "price_change_6m": 24.207830248261462,
+      "price_change_1y": 24.782901019263427,
+      "price_change_2y": NaN,
+      "volatility_30d": 17.877606038466908,
+      "volatility_90d": 27.040255363493166,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'increasing', 'avg_30d': np.float64(19234586.666666668), 'recent_avg': np.float64(20788300.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -29.469258008404008, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': 11.22346476995366, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': -3.4512933233211993, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 1.480116500635301, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': 0.07201550670418214, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 2.520178689159185, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 9.914245831478286, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 65.6088674550271,
+      "growth_trajectory": "Growing",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "AMZN",
+      "company_name": "Amazon.com Inc",
+      "category": "Cloud Provider",
+      "priority": "High",
+      "collection_date": "2025-08-17T17:56:26.359177",
+      "current_price": 231.03,
+      "market_cap": NaN,
+      "volume": 39649244,
+      "avg_volume": NaN,
+      "day_high": 234.08,
+      "day_low": 229.807,
+      "year_high": 242.52,
+      "year_low": 161.38,
+      "price_change_1d": 0.0216482174572361,
+      "price_change_1w": 3.5405340938496543,
+      "price_change_1m": 3.383003319146786,
+      "price_change_3m": 35.37442506840347,
+      "price_change_6m": 14.683545435175445,
+      "price_change_1y": 35.8201002289805,
+      "price_change_2y": NaN,
+      "volatility_30d": 32.69691196958451,
+      "volatility_90d": 37.23998514813994,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'stable', 'avg_30d': np.float64(44759196.666666664), 'recent_avg': np.float64(41298380.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -34.30127451229246, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -10.097077609507906, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 9.463399869375245, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 22.815988339809724, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -9.071470869882265, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 10.92861005768101, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 17.470048939516268, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 58.37164464317412,
+      "growth_trajectory": "Accelerating",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "GOOGL",
+      "company_name": "Alphabet Inc",
+      "category": "Cloud Provider",
+      "priority": "High",
+      "collection_date": "2025-08-17T17:56:28.658522",
+      "current_price": 203.9,
+      "market_cap": NaN,
+      "volume": 34931422,
+      "avg_volume": NaN,
+      "day_high": 206.44,
+      "day_low": 201.28,
+      "year_high": 207.05,
+      "year_low": 140.53,
+      "price_change_1d": 0.4730420043013935,
+      "price_change_1w": 3.755337606135816,
+      "price_change_1m": 15.334578675204938,
+      "price_change_3m": 40.9122309583859,
+      "price_change_6m": 21.62242846389997,
+      "price_change_1y": 27.143480766142137,
+      "price_change_2y": NaN,
+      "volatility_30d": 18.423736836348493,
+      "volatility_90d": 32.07250949073028,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'stable', 'avg_30d': np.float64(36771153.333333336), 'recent_avg': np.float64(28942980.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -22.558520333605475, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -10.279109067269736, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 1.9876669460442753, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 13.250608372515035, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -5.853000725047795, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 17.362544477204594, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 9.465271437051365, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 64.58759062391766,
+      "growth_trajectory": "Growing",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "META",
+      "company_name": "Meta Platforms Inc",
+      "category": "Cloud Provider",
+      "priority": "High",
+      "collection_date": "2025-08-17T17:56:30.993695",
+      "current_price": 785.23,
+      "market_cap": NaN,
+      "volume": 13375361,
+      "avg_volume": NaN,
+      "day_high": 796.248,
+      "day_low": 781.0,
+      "year_high": 796.25,
+      "year_low": 479.8,
+      "price_change_1d": 0.3963504234058854,
+      "price_change_1w": 3.071546520087651,
+      "price_change_1m": 9.310225816916107,
+      "price_change_3m": 53.83092598502513,
+      "price_change_6m": 38.95170866256201,
+      "price_change_1y": 49.06788023223856,
+      "price_change_2y": NaN,
+      "volatility_30d": 38.59008392951123,
+      "volatility_90d": 43.13983527602032,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'stable', 'avg_30d': np.float64(12224843.333333334), 'recent_avg': np.float64(10493320.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -54.04160349149216, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -13.076405756909445, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 25.965249766455628, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 11.022096682021628, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': 11.637173455935717, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 2.5493373708614033, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 39.951945278695575, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 62.966578280835584,
+      "growth_trajectory": "Accelerating",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "AAPL",
+      "company_name": "Apple Inc",
+      "category": "Device Manufacturer",
+      "priority": "Medium",
+      "collection_date": "2025-08-17T17:56:32.995031",
+      "current_price": 231.59,
+      "market_cap": NaN,
+      "volume": 56038657,
+      "avg_volume": NaN,
+      "day_high": 234.221,
+      "day_low": 229.36,
+      "year_high": 260.1,
+      "year_low": 169.21,
+      "price_change_1d": -0.5112133549474385,
+      "price_change_1w": 5.253827942883875,
+      "price_change_1m": 10.307215862919602,
+      "price_change_3m": 34.31736387734312,
+      "price_change_6m": -0.5496623893742684,
+      "price_change_1y": 4.451558300039324,
+      "price_change_2y": NaN,
+      "volatility_30d": 24.23557956248727,
+      "volatility_90d": 36.463882400043296,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'increasing', 'avg_30d': np.float64(57658250.0), 'recent_avg': np.float64(59047520.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -16.420518832066282, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -13.630421408317575, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 9.084427045491308, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 1.132055968346065, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': 18.294835343795356, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 1.2916123413129996, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': -0.7296140852380215, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 47.40166948007285,
+      "growth_trajectory": "Stable",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "ASML",
+      "company_name": "ASML Holding NV",
+      "category": "Equipment",
+      "priority": "Medium",
+      "collection_date": "2025-08-17T17:56:35.831438",
+      "current_price": 742.16,
+      "market_cap": NaN,
+      "volume": 1635071,
+      "avg_volume": NaN,
+      "day_high": 747.15,
+      "day_low": 736.655,
+      "year_high": 945.05,
+      "year_low": 578.51,
+      "price_change_1d": -1.7280026017183208,
+      "price_change_1w": 4.072242852000187,
+      "price_change_1m": -5.468169540108132,
+      "price_change_3m": 24.655252906799724,
+      "price_change_6m": 8.428419786209748,
+      "price_change_1y": -15.623370389879591,
+      "price_change_2y": NaN,
+      "volatility_30d": 36.59984420049503,
+      "volatility_90d": 42.37870604597912,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'stable', 'avg_30d': np.float64(2195430.0), 'recent_avg': np.float64(1572940.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -13.589089220983825, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -0.45905292569595957, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 12.309094117985069, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': -23.920509825835598, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -3.874191127287009, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 1.2963315190309186, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 36.60173713165052, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 39.68810262688598,
+      "growth_trajectory": "Declining",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "AMAT",
+      "company_name": "Applied Materials Inc",
+      "category": "Equipment",
+      "priority": "Medium",
+      "collection_date": "2025-08-17T17:56:39.826455",
+      "current_price": 161.755,
+      "market_cap": NaN,
+      "volume": 31803282,
+      "avg_volume": NaN,
+      "day_high": 167.5,
+      "day_low": 161.71,
+      "year_high": 215.7,
+      "year_low": 123.74,
+      "price_change_1d": -14.067153747129352,
+      "price_change_1w": -11.67895173490313,
+      "price_change_1m": -15.211240412068888,
+      "price_change_3m": 25.434232386281145,
+      "price_change_6m": -7.32741811590193,
+      "price_change_1y": -19.773847845289215,
+      "price_change_2y": NaN,
+      "volatility_30d": 51.260753729740486,
+      "volatility_90d": 50.78632888788127,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'increasing', 'avg_30d': np.float64(7154000.0), 'recent_avg': np.float64(12481000.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -16.50057746915526, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -2.145383977243121, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': -9.32961985165098, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': -7.449290238915866, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -3.9033467522240946, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 16.36626374865065, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 19.6641932061727, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 31.777728856678664,
+      "growth_trajectory": "Declining",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    },
+    {
+      "symbol": "LRCX",
+      "company_name": "Lam Research Corp",
+      "category": "Equipment",
+      "priority": "Medium",
+      "collection_date": "2025-08-17T17:56:43.584658",
+      "current_price": 99.51,
+      "market_cap": NaN,
+      "volume": 23155664,
+      "avg_volume": NaN,
+      "day_high": 105.885,
+      "day_low": 99.26,
+      "year_high": 108.02,
+      "year_low": 56.32,
+      "price_change_1d": -7.3291072066375875,
+      "price_change_1w": 0.363086842976598,
+      "price_change_1m": 1.3959677553518874,
+      "price_change_3m": 65.16182927175181,
+      "price_change_6m": 35.00203957700591,
+      "price_change_1y": 17.717347678577504,
+      "price_change_2y": NaN,
+      "volatility_30d": 36.33177855726641,
+      "volatility_90d": 46.94738480578689,
+      "beta": NaN,
+      "sharpe_ratio": NaN,
+      "trading_volume_trend": "{'trend': 'increasing', 'avg_30d': np.float64(11186710.0), 'recent_avg': np.float64(13391060.0)}",
+      "price_momentum": NaN,
+      "relative_strength": NaN,
+      "quarterly_returns": "[{'quarter': 'Q1', 'return_pct': -23.45256713356609, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': 2.0302118491550223, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 9.31308234606411, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': -10.44917426668396, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -7.36515750895171, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 2.2350631949314135, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 30.223368745650635, 'period_days': 63}]",
+      "quarterly_volatility": "[]",
+      "business_outlook": NaN,
+      "growth_prospects": NaN,
+      "competitive_position": NaN,
+      "financial_health": NaN,
+      "innovation_score": NaN,
+      "sustainability_score": NaN,
+      "analyst_sentiment": NaN,
+      "research_reports": "[]",
+      "significant_developments": "[]",
+      "logistics_opportunity_score": 51.16320687783789,
+      "growth_trajectory": "Growing",
+      "expansion_indicators": "[]",
+      "shipping_volume_proxy": NaN
+    }
+  ],
+  "summary_stats": {
+    "total_companies": 15,
+    "avg_opportunity_score": 53.276414832154074,
+    "top_performer": "AVGO",
+    "top_opportunity": "NVDA",
+    "categories": [
+      "Semiconductor Designer",
+      "Semiconductor IDM",
+      "Foundry",
+      "Memory",
+      "Cloud Provider",
+      "Device Manufacturer",
+      "Equipment"
+    ],
+    "growth_trajectories": {
+      "Growing": 6,
+      "Accelerating": 5,
+      "Declining": 3,
+      "Stable": 1
+    }
+  },
+  "analysis_results": {
+    "financial_performance": {
+      "top_market_caps": [
+        {
+          "symbol": "META",
+          "company_name": "Meta Platforms Inc",
+          "current_price": 785.23,
+          "category": "Cloud Provider"
+        },
+        {
+          "symbol": "ASML",
+          "company_name": "ASML Holding NV",
+          "current_price": 742.16,
+          "category": "Equipment"
+        },
+        {
+          "symbol": "MSFT",
+          "company_name": "Microsoft Corporation",
+          "current_price": 520.17,
+          "category": "Cloud Provider"
+        },
+        {
+          "symbol": "AVGO",
+          "company_name": "Broadcom Inc",
+          "current_price": 306.34,
+          "category": "Semiconductor Designer"
+        },
+        {
+          "symbol": "TSM",
+          "company_name": "Taiwan Semiconductor Manufacturing",
+          "current_price": 238.88,
+          "category": "Foundry"
+        },
+        {
+          "symbol": "AAPL",
+          "company_name": "Apple Inc",
+          "current_price": 231.59,
+          "category": "Device Manufacturer"
+        },
+        {
+          "symbol": "AMZN",
+          "company_name": "Amazon.com Inc",
+          "current_price": 231.03,
+          "category": "Cloud Provider"
+        },
+        {
+          "symbol": "GOOGL",
+          "company_name": "Alphabet Inc",
+          "current_price": 203.9,
+          "category": "Cloud Provider"
+        },
+        {
+          "symbol": "NVDA",
+          "company_name": "NVIDIA Corporation",
+          "current_price": 180.45,
+          "category": "Semiconductor Designer"
+        },
+        {
+          "symbol": "AMD",
+          "company_name": "Advanced Micro Devices",
+          "current_price": 177.51,
+          "category": "Semiconductor Designer"
+        }
+      ],
+      "growth_leaders": [
+        {
+          "symbol": "AVGO",
+          "company_name": "Broadcom Inc",
+          "price_change_1y": 94.26722784896847,
+          "category": "Semiconductor Designer",
+          "logistics_opportunity_score": 61.128906396027055
+        },
+        {
+          "symbol": "NVDA",
+          "company_name": "NVIDIA Corporation",
+          "price_change_1y": 52.82011699697008,
+          "category": "Semiconductor Designer",
+          "logistics_opportunity_score": 68.28657087150953
+        },
+        {
+          "symbol": "META",
+          "company_name": "Meta Platforms Inc",
+          "price_change_1y": 49.06788023223856,
+          "category": "Cloud Provider",
+          "logistics_opportunity_score": 62.966578280835584
+        },
+        {
+          "symbol": "TSM",
+          "company_name": "Taiwan Semiconductor Manufacturing",
+          "price_change_1y": 40.54245053080333,
+          "category": "Foundry",
+          "logistics_opportunity_score": 64.71390198414016
+        },
+        {
+          "symbol": "AMZN",
+          "company_name": "Amazon.com Inc",
+          "price_change_1y": 35.8201002289805,
+          "category": "Cloud Provider",
+          "logistics_opportunity_score": 58.37164464317412
+        },
+        {
+          "symbol": "GOOGL",
+          "company_name": "Alphabet Inc",
+          "price_change_1y": 27.143480766142137,
+          "category": "Cloud Provider",
+          "logistics_opportunity_score": 64.58759062391766
+        },
+        {
+          "symbol": "AMD",
+          "company_name": "Advanced Micro Devices",
+          "price_change_1y": 26.11722522688166,
+          "category": "Semiconductor Designer",
+          "logistics_opportunity_score": 55.85290177063994
+        },
+        {
+          "symbol": "MSFT",
+          "company_name": "Microsoft Corporation",
+          "price_change_1y": 24.782901019263427,
+          "category": "Cloud Provider",
+          "logistics_opportunity_score": 65.6088674550271
+        },
+        {
+          "symbol": "INTC",
+          "company_name": "Intel Corporation",
+          "price_change_1y": 23.29316953753594,
+          "category": "Semiconductor IDM",
+          "logistics_opportunity_score": 39.66836853347428
+        },
+        {
+          "symbol": "MU",
+          "company_name": "Micron Technology",
+          "price_change_1y": 20.37645487328413,
+          "category": "Memory",
+          "logistics_opportunity_score": 45.67276278319472
+        }
+      ],
+      "volatility_analysis": {
+        "low_volatility": [
+          "NVDA",
+          "TSM",
+          "AVGO",
+          "MSFT",
+          "GOOGL",
+          "AAPL"
+        ],
+        "medium_volatility": [
+          "AMD",
+          "QCOM",
+          "MU",
+          "AMZN",
+          "META",
+          "ASML",
+          "LRCX"
+        ],
+        "high_volatility": [
+          "INTC",
+          "AMAT"
+        ],
+        "avg_volatility_by_category": {
+          "Cloud Provider": 26.897084693477787,
+          "Device Manufacturer": 24.23557956248727,
+          "Equipment": 41.397458829167306,
+          "Foundry": 28.08556597508442,
+          "Memory": 44.505981924940215,
+          "Semiconductor Designer": 31.54712339789824,
+          "Semiconductor IDM": 50.72342317033023
+        }
+      },
+      "performance_tiers": {
+        "symbol": {
+          "Declining": 3,
+          "Stable": 5,
+          "Growing": 5,
+          "High Growth": 2
+        },
+        "logistics_opportunity_score": {
+          "Declining": 37.9077509274867,
+          "Stable": 49.902975025921364,
+          "Growing": 61.29852346054149,
+          "High Growth": 64.70773863376829
+        },
+        "current_price": {
+          "Declining": 353.9216666666666,
+          "Stable": 199.34,
+          "Growing": 327.31,
+          "High Growth": 243.39499999999998
+        }
+      }
+    },
+    "logistics_opportunities": {
+      "opportunity_ranking": [
+        {
+          "symbol": "NVDA",
+          "company_name": "NVIDIA Corporation",
+          "category": "Semiconductor Designer",
+          "logistics_opportunity_score": 68.28657087150953,
+          "growth_trajectory": "Accelerating",
+          "price_change_1y": 52.82011699697008,
+          "current_price": 180.45
+        },
+        {
+          "symbol": "MSFT",
+          "company_name": "Microsoft Corporation",
+          "category": "Cloud Provider",
+          "logistics_opportunity_score": 65.6088674550271,
+          "growth_trajectory": "Growing",
+          "price_change_1y": 24.782901019263427,
+          "current_price": 520.17
+        },
+        {
+          "symbol": "TSM",
+          "company_name": "Taiwan Semiconductor Manufacturing",
+          "category": "Foundry",
+          "logistics_opportunity_score": 64.71390198414016,
+          "growth_trajectory": "Accelerating",
+          "price_change_1y": 40.54245053080333,
+          "current_price": 238.88
+        },
+        {
+          "symbol": "GOOGL",
+          "company_name": "Alphabet Inc",
+          "category": "Cloud Provider",
+          "logistics_opportunity_score": 64.58759062391766,
+          "growth_trajectory": "Growing",
+          "price_change_1y": 27.143480766142137,
+          "current_price": 203.9
+        },
+        {
+          "symbol": "META",
+          "company_name": "Meta Platforms Inc",
+          "category": "Cloud Provider",
+          "logistics_opportunity_score": 62.966578280835584,
+          "growth_trajectory": "Accelerating",
+          "price_change_1y": 49.06788023223856,
+          "current_price": 785.23
+        },
+        {
+          "symbol": "AVGO",
+          "company_name": "Broadcom Inc",
+          "category": "Semiconductor Designer",
+          "logistics_opportunity_score": 61.128906396027055,
+          "growth_trajectory": "Accelerating",
+          "price_change_1y": 94.26722784896847,
+          "current_price": 306.34
+        },
+        {
+          "symbol": "AMZN",
+          "company_name": "Amazon.com Inc",
+          "category": "Cloud Provider",
+          "logistics_opportunity_score": 58.37164464317412,
+          "growth_trajectory": "Accelerating",
+          "price_change_1y": 35.8201002289805,
+          "current_price": 231.03
+        },
+        {
+          "symbol": "AMD",
+          "company_name": "Advanced Micro Devices",
+          "category": "Semiconductor Designer",
+          "logistics_opportunity_score": 55.85290177063994,
+          "growth_trajectory": "Growing",
+          "price_change_1y": 26.11722522688166,
+          "current_price": 177.51
+        },
+        {
+          "symbol": "LRCX",
+          "company_name": "Lam Research Corp",
+          "category": "Equipment",
+          "logistics_opportunity_score": 51.16320687783789,
+          "growth_trajectory": "Growing",
+          "price_change_1y": 17.717347678577504,
+          "current_price": 99.51
+        },
+        {
+          "symbol": "AAPL",
+          "company_name": "Apple Inc",
+          "category": "Device Manufacturer",
+          "logistics_opportunity_score": 47.40166948007285,
+          "growth_trajectory": "Stable",
+          "price_change_1y": 4.451558300039324,
+          "current_price": 231.59
+        },
+        {
+          "symbol": "MU",
+          "company_name": "Micron Technology",
+          "category": "Memory",
+          "logistics_opportunity_score": 45.67276278319472,
+          "growth_trajectory": "Growing",
+          "price_change_1y": 20.37645487328413,
+          "current_price": 120.87
+        },
+        {
+          "symbol": "QCOM",
+          "company_name": "Qualcomm Inc",
+          "category": "Semiconductor Designer",
+          "logistics_opportunity_score": 42.257421298895466,
+          "growth_trajectory": "Declining",
+          "price_change_1y": -5.563857692228342,
+          "current_price": 157.85
+        },
+        {
+          "symbol": "ASML",
+          "company_name": "ASML Holding NV",
+          "category": "Equipment",
+          "logistics_opportunity_score": 39.68810262688598,
+          "growth_trajectory": "Declining",
+          "price_change_1y": -15.623370389879591,
+          "current_price": 742.16
+        },
+        {
+          "symbol": "INTC",
+          "company_name": "Intel Corporation",
+          "category": "Semiconductor IDM",
+          "logistics_opportunity_score": 39.66836853347428,
+          "growth_trajectory": "Growing",
+          "price_change_1y": 23.29316953753594,
+          "current_price": 24.56
+        },
+        {
+          "symbol": "AMAT",
+          "company_name": "Applied Materials Inc",
+          "category": "Equipment",
+          "logistics_opportunity_score": 31.777728856678664,
+          "growth_trajectory": "Declining",
+          "price_change_1y": -19.773847845289215,
+          "current_price": 161.755
+        }
+      ],
+      "category_analysis": {
+        "Semiconductor Designer": {
+          "avg_opportunity_score": 56.881450084267996,
+          "max_opportunity_score": 68.28657087150953,
+          "company_count": 4,
+          "avg_growth": 41.91017809514797,
+          "avg_price": 205.53749999999997
+        },
+        "Semiconductor IDM": {
+          "avg_opportunity_score": 39.66836853347428,
+          "max_opportunity_score": 39.66836853347428,
+          "company_count": 1,
+          "avg_growth": 23.29316953753594,
+          "avg_price": 24.56
+        },
+        "Foundry": {
+          "avg_opportunity_score": 64.71390198414016,
+          "max_opportunity_score": 64.71390198414016,
+          "company_count": 1,
+          "avg_growth": 40.54245053080333,
+          "avg_price": 238.88
+        },
+        "Memory": {
+          "avg_opportunity_score": 45.67276278319472,
+          "max_opportunity_score": 45.67276278319472,
+          "company_count": 1,
+          "avg_growth": 20.37645487328413,
+          "avg_price": 120.87
+        },
+        "Cloud Provider": {
+          "avg_opportunity_score": 62.88367025073862,
+          "max_opportunity_score": 65.6088674550271,
+          "company_count": 4,
+          "avg_growth": 34.203590561656156,
+          "avg_price": 435.0825
+        },
+        "Device Manufacturer": {
+          "avg_opportunity_score": 47.40166948007285,
+          "max_opportunity_score": 47.40166948007285,
+          "company_count": 1,
+          "avg_growth": 4.451558300039324,
+          "avg_price": 231.59
+        },
+        "Equipment": {
+          "avg_opportunity_score": 40.87634612046751,
+          "max_opportunity_score": 51.16320687783789,
+          "company_count": 3,
+          "avg_growth": -5.893290185530435,
+          "avg_price": 334.47499999999997
+        }
+      },
+      "growth_trajectory_analysis": {
+        "symbol": {
+          "Accelerating": 5,
+          "Declining": 3,
+          "Growing": 6,
+          "Stable": 1
+        },
+        "logistics_opportunity_score": {
+          "Accelerating": 63.09352043513729,
+          "Declining": 37.9077509274867,
+          "Growing": 53.75894967401526,
+          "Stable": 47.40166948007285
+        },
+        "price_change_1y": {
+          "Accelerating": 54.50355516759218,
+          "Declining": -13.653691975799049,
+          "Growing": 23.2384298502808,
+          "Stable": 4.451558300039324
+        }
+      },
+      "strategic_recommendations": {
+        "immediate_priorities": [
+          {
+            "company": "NVIDIA Corporation",
+            "symbol": "NVDA",
+            "reason": "High opportunity score (68) with strong growth (52.8%)",
+            "category": "Semiconductor Designer"
+          },
+          {
+            "company": "Taiwan Semiconductor Manufacturing",
+            "symbol": "TSM",
+            "reason": "High opportunity score (65) with strong growth (40.5%)",
+            "category": "Foundry"
+          },
+          {
+            "company": "Broadcom Inc",
+            "symbol": "AVGO",
+            "reason": "High opportunity score (61) with strong growth (94.3%)",
+            "category": "Semiconductor Designer"
+          },
+          {
+            "company": "Microsoft Corporation",
+            "symbol": "MSFT",
+            "reason": "High opportunity score (66) with strong growth (24.8%)",
+            "category": "Cloud Provider"
+          },
+          {
+            "company": "Alphabet Inc",
+            "symbol": "GOOGL",
+            "reason": "High opportunity score (65) with strong growth (27.1%)",
+            "category": "Cloud Provider"
+          },
+          {
+            "company": "Meta Platforms Inc",
+            "symbol": "META",
+            "reason": "High opportunity score (63) with strong growth (49.1%)",
+            "category": "Cloud Provider"
+          }
+        ],
+        "medium_term_opportunities": [
+          {
+            "company": "Apple Inc",
+            "symbol": "AAPL",
+            "reason": "Stable growth (4.5%) with good opportunity score (47)",
+            "category": "Device Manufacturer"
+          },
+          {
+            "company": "Lam Research Corp",
+            "symbol": "LRCX",
+            "reason": "Stable growth (17.7%) with good opportunity score (51)",
+            "category": "Equipment"
+          }
+        ],
+        "strategic_partnerships": [
+          {
+            "company": "Advanced Micro Devices",
+            "symbol": "AMD",
+            "reason": "Large scale operations ($178 price) with solid opportunity (56)",
+            "category": "Semiconductor Designer"
+          },
+          {
+            "company": "NVIDIA Corporation",
+            "symbol": "NVDA",
+            "reason": "Large scale operations ($180 price) with solid opportunity (68)",
+            "category": "Semiconductor Designer"
+          },
+          {
+            "company": "Taiwan Semiconductor Manufacturing",
+            "symbol": "TSM",
+            "reason": "Large scale operations ($239 price) with solid opportunity (65)",
+            "category": "Foundry"
+          },
+          {
+            "company": "Broadcom Inc",
+            "symbol": "AVGO",
+            "reason": "Large scale operations ($306 price) with solid opportunity (61)",
+            "category": "Semiconductor Designer"
+          },
+          {
+            "company": "Microsoft Corporation",
+            "symbol": "MSFT",
+            "reason": "Large scale operations ($520 price) with solid opportunity (66)",
+            "category": "Cloud Provider"
+          },
+          {
+            "company": "Amazon.com Inc",
+            "symbol": "AMZN",
+            "reason": "Large scale operations ($231 price) with solid opportunity (58)",
+            "category": "Cloud Provider"
+          },
+          {
+            "company": "Alphabet Inc",
+            "symbol": "GOOGL",
+            "reason": "Large scale operations ($204 price) with solid opportunity (65)",
+            "category": "Cloud Provider"
+          },
+          {
+            "company": "Meta Platforms Inc",
+            "symbol": "META",
+            "reason": "Large scale operations ($785 price) with solid opportunity (63)",
+            "category": "Cloud Provider"
+          }
+        ],
+        "risk_considerations": [
+          {
+            "company": "Qualcomm Inc",
+            "symbol": "QCOM",
+            "reason": "Declining performance (-5.6%) or high volatility",
+            "category": "Semiconductor Designer"
+          },
+          {
+            "company": "ASML Holding NV",
+            "symbol": "ASML",
+            "reason": "Declining performance (-15.6%) or high volatility",
+            "category": "Equipment"
+          },
+          {
+            "company": "Applied Materials Inc",
+            "symbol": "AMAT",
+            "reason": "Declining performance (-19.8%) or high volatility",
+            "category": "Equipment"
+          }
+        ]
+      },
+      "expansion_indicators": {
+        "high_growth_companies": [
+          {
+            "symbol": "NVDA",
+            "company": "NVIDIA Corporation",
+            "growth": 52.82011699697008,
+            "category": "Semiconductor Designer"
+          },
+          {
+            "symbol": "TSM",
+            "company": "Taiwan Semiconductor Manufacturing",
+            "growth": 40.54245053080333,
+            "category": "Foundry"
+          },
+          {
+            "symbol": "AVGO",
+            "company": "Broadcom Inc",
+            "growth": 94.26722784896847,
+            "category": "Semiconductor Designer"
+          },
+          {
+            "symbol": "AMZN",
+            "company": "Amazon.com Inc",
+            "growth": 35.8201002289805,
+            "category": "Cloud Provider"
+          },
+          {
+            "symbol": "META",
+            "company": "Meta Platforms Inc",
+            "growth": 49.06788023223856,
+            "category": "Cloud Provider"
+          }
+        ],
+        "volume_surge_companies": [],
+        "price_momentum_companies": [
+          {
+            "symbol": "AMD",
+            "company": "Advanced Micro Devices",
+            "momentum": 126.96585677633348,
+            "category": "Semiconductor Designer"
+          },
+          {
+            "symbol": "NVDA",
+            "company": "NVIDIA Corporation",
+            "momentum": 87.38316846288858,
+            "category": "Semiconductor Designer"
+          },
+          {
+            "symbol": "INTC",
+            "company": "Intel Corporation",
+            "momentum": 35.466081648201786,
+            "category": "Semiconductor IDM"
+          },
+          {
+            "symbol": "TSM",
+            "company": "Taiwan Semiconductor Manufacturing",
+            "momentum": 68.97503935314907,
+            "category": "Foundry"
+          },
+          {
+            "symbol": "QCOM",
+            "company": "Qualcomm Inc",
+            "momentum": 26.6244195944095,
+            "category": "Semiconductor Designer"
+          },
+          {
+            "symbol": "AVGO",
+            "company": "Broadcom Inc",
+            "momentum": 96.3340375149307,
+            "category": "Semiconductor Designer"
+          },
+          {
+            "symbol": "MU",
+            "company": "Micron Technology",
+            "momentum": 84.42172880401385,
+            "category": "Memory"
+          },
+          {
+            "symbol": "MSFT",
+            "company": "Microsoft Corporation",
+            "momentum": 46.70859276057902,
+            "category": "Cloud Provider"
+          },
+          {
+            "symbol": "AMZN",
+            "company": "Amazon.com Inc",
+            "momentum": 35.37442506840347,
+            "category": "Cloud Provider"
+          },
+          {
+            "symbol": "GOOGL",
+            "company": "Alphabet Inc",
+            "momentum": 40.9122309583859,
+            "category": "Cloud Provider"
+          },
+          {
+            "symbol": "META",
+            "company": "Meta Platforms Inc",
+            "momentum": 53.83092598502513,
+            "category": "Cloud Provider"
+          },
+          {
+            "symbol": "AAPL",
+            "company": "Apple Inc",
+            "momentum": 34.31736387734312,
+            "category": "Device Manufacturer"
+          },
+          {
+            "symbol": "ASML",
+            "company": "ASML Holding NV",
+            "momentum": 24.655252906799724,
+            "category": "Equipment"
+          },
+          {
+            "symbol": "AMAT",
+            "company": "Applied Materials Inc",
+            "momentum": 25.434232386281145,
+            "category": "Equipment"
+          },
+          {
+            "symbol": "LRCX",
+            "company": "Lam Research Corp",
+            "momentum": 65.16182927175181,
+            "category": "Equipment"
+          }
+        ],
+        "category_expansion_trends": {
+          "price_change_1y": {
+            "Cloud Provider": 34.2,
+            "Device Manufacturer": 4.45,
+            "Equipment": -5.89,
+            "Foundry": 40.54,
+            "Memory": 20.38,
+            "Semiconductor Designer": 41.91,
+            "Semiconductor IDM": 23.29
+          },
+          "price_change_3m": {
+            "Cloud Provider": 44.21,
+            "Device Manufacturer": 34.32,
+            "Equipment": 38.42,
+            "Foundry": 68.98,
+            "Memory": 84.42,
+            "Semiconductor Designer": 84.33,
+            "Semiconductor IDM": 35.47
+          },
+          "logistics_opportunity_score": {
+            "Cloud Provider": 62.88,
+            "Device Manufacturer": 47.4,
+            "Equipment": 40.88,
+            "Foundry": 64.71,
+            "Memory": 45.67,
+            "Semiconductor Designer": 56.88,
+            "Semiconductor IDM": 39.67
+          }
+        }
+      }
+    },
+    "quarterly_analysis": {
+      "quarterly_trends": {
+        "AMD": {
+          "mean_return": 0.2433602053695643,
+          "std_return": 21.272578443068834,
+          "count": 7,
+          "opportunity_score": 55.85290177063994
+        },
+        "NVDA": {
+          "mean_return": 7.712342132641824,
+          "std_return": 38.476250583775915,
+          "count": 7,
+          "opportunity_score": 68.28657087150953
+        },
+        "INTC": {
+          "mean_return": 1.8157079201448172,
+          "std_return": 30.824060709065577,
+          "count": 7,
+          "opportunity_score": 39.66836853347428
+        },
+        "TSM": {
+          "mean_return": 3.3641890566877746,
+          "std_return": 27.05318605655215,
+          "count": 7,
+          "opportunity_score": 64.71390198414016
+        },
+        "QCOM": {
+          "mean_return": -0.1244444393844282,
+          "std_return": 19.041432629391505,
+          "count": 7,
+          "opportunity_score": 42.257421298895466
+        },
+        "AVGO": {
+          "mean_return": 4.824469082749999,
+          "std_return": 32.43189015116288,
+          "count": 7,
+          "opportunity_score": 61.128906396027055
+        },
+        "MU": {
+          "mean_return": 0.7144289490326321,
+          "std_return": 27.34646652511065,
+          "count": 7,
+          "opportunity_score": 45.67276278319472
+        },
+        "MSFT": {
+          "mean_return": -1.1015042905420844,
+          "std_return": 13.568720615311241,
+          "count": 7,
+          "opportunity_score": 65.6088674550271
+        },
+        "AMZN": {
+          "mean_return": 1.0297463163856595,
+          "std_return": 19.95060458391503,
+          "count": 7,
+          "opportunity_score": 58.37164464317412
+        },
+        "GOOGL": {
+          "mean_return": 0.4822087295560366,
+          "std_return": 14.24637743290108,
+          "count": 7,
+          "opportunity_score": 64.58759062391766
+        },
+        "META": {
+          "mean_return": 3.4296847579383347,
+          "std_return": 30.39437942012552,
+          "count": 7,
+          "opportunity_score": 62.966578280835584
+        },
+        "AAPL": {
+          "mean_return": -0.13966051809659227,
+          "std_return": 12.083013255054084,
+          "count": 7,
+          "opportunity_score": 47.40166948007285
+        },
+        "ASML": {
+          "mean_return": 1.1949028098377308,
+          "std_return": 19.38625418544233,
+          "count": 7,
+          "opportunity_score": 39.68810262688598
+        },
+        "AMAT": {
+          "mean_return": -0.4711087620522818,
+          "std_return": 13.463673693892884,
+          "count": 7,
+          "opportunity_score": 31.777728856678664
+        },
+        "LRCX": {
+          "mean_return": 0.3621181752284888,
+          "std_return": 16.940280275572658,
+          "count": 7,
+          "opportunity_score": 51.16320687783789
+        }
+      },
+      "seasonal_patterns": {},
+      "growth_consistency": {
+        "AMD": {
+          "consistency_score": 42.857142857142854,
+          "positive_quarters": 3,
+          "total_quarters": 7,
+          "avg_return": 0.2433602053695643
+        },
+        "NVDA": {
+          "consistency_score": 57.14285714285714,
+          "positive_quarters": 4,
+          "total_quarters": 7,
+          "avg_return": 7.712342132641824
+        },
+        "INTC": {
+          "consistency_score": 42.857142857142854,
+          "positive_quarters": 3,
+          "total_quarters": 7,
+          "avg_return": 1.8157079201448172
+        },
+        "TSM": {
+          "consistency_score": 71.42857142857143,
+          "positive_quarters": 5,
+          "total_quarters": 7,
+          "avg_return": 3.3641890566877746
+        },
+        "QCOM": {
+          "consistency_score": 42.857142857142854,
+          "positive_quarters": 3,
+          "total_quarters": 7,
+          "avg_return": -0.1244444393844282
+        },
+        "AVGO": {
+          "consistency_score": 71.42857142857143,
+          "positive_quarters": 5,
+          "total_quarters": 7,
+          "avg_return": 4.824469082749999
+        },
+        "MU": {
+          "consistency_score": 42.857142857142854,
+          "positive_quarters": 3,
+          "total_quarters": 7,
+          "avg_return": 0.7144289490326321
+        },
+        "MSFT": {
+          "consistency_score": 71.42857142857143,
+          "positive_quarters": 5,
+          "total_quarters": 7,
+          "avg_return": -1.1015042905420844
+        },
+        "AMZN": {
+          "consistency_score": 57.14285714285714,
+          "positive_quarters": 4,
+          "total_quarters": 7,
+          "avg_return": 1.0297463163856595
+        },
+        "GOOGL": {
+          "consistency_score": 57.14285714285714,
+          "positive_quarters": 4,
+          "total_quarters": 7,
+          "avg_return": 0.4822087295560366
+        },
+        "META": {
+          "consistency_score": 71.42857142857143,
+          "positive_quarters": 5,
+          "total_quarters": 7,
+          "avg_return": 3.4296847579383347
+        },
+        "AAPL": {
+          "consistency_score": 57.14285714285714,
+          "positive_quarters": 4,
+          "total_quarters": 7,
+          "avg_return": -0.13966051809659227
+        },
+        "ASML": {
+          "consistency_score": 42.857142857142854,
+          "positive_quarters": 3,
+          "total_quarters": 7,
+          "avg_return": 1.1949028098377308
+        },
+        "AMAT": {
+          "consistency_score": 28.57142857142857,
+          "positive_quarters": 2,
+          "total_quarters": 7,
+          "avg_return": -0.4711087620522818
+        },
+        "LRCX": {
+          "consistency_score": 57.14285714285714,
+          "positive_quarters": 4,
+          "total_quarters": 7,
+          "avg_return": 0.3621181752284888
+        }
+      },
+      "quarterly_rankings": {}
+    }
+  },
+  "last_updated": "2025-08-17T17:58:38.769066"
+}
+symbol,company_name,category,current_price,price_change_1y,logistics_opportunity_score,growth_trajectory
+NVDA,NVIDIA Corporation,Semiconductor Designer,180.45,52.82011699697008,68.28657087150953,Accelerating
+MSFT,Microsoft Corporation,Cloud Provider,520.17,24.782901019263427,65.6088674550271,Growing
+TSM,Taiwan Semiconductor Manufacturing,Foundry,238.88,40.54245053080333,64.71390198414016,Accelerating
+GOOGL,Alphabet Inc,Cloud Provider,203.9,27.143480766142137,64.58759062391766,Growing
+META,Meta Platforms Inc,Cloud Provider,785.23,49.06788023223856,62.966578280835584,Accelerating
+AVGO,Broadcom Inc,Semiconductor Designer,306.34,94.26722784896847,61.128906396027055,Accelerating
+AMZN,Amazon.com Inc,Cloud Provider,231.03,35.8201002289805,58.37164464317412,Accelerating
+AMD,Advanced Micro Devices,Semiconductor Designer,177.51,26.11722522688166,55.85290177063994,Growing
+LRCX,Lam Research Corp,Equipment,99.51,17.717347678577504,51.16320687783789,Growing
+AAPL,Apple Inc,Device Manufacturer,231.59,4.451558300039324,47.40166948007285,Stable
+MU,Micron Technology,Memory,120.87,20.37645487328413,45.67276278319472,Growing
+QCOM,Qualcomm Inc,Semiconductor Designer,157.85,-5.563857692228342,42.257421298895466,Declining
+ASML,ASML Holding NV,Equipment,742.16,-15.623370389879591,39.68810262688598,Declining
+INTC,Intel Corporation,Semiconductor IDM,24.56,23.29316953753594,39.66836853347428,Growing
+AMAT,Applied Materials Inc,Equipment,161.755,-19.773847845289215,31.777728856678664,Declining
+
+symbol,company_name,category,priority,collection_date,current_price,market_cap,volume,avg_volume,day_high,day_low,year_high,year_low,price_change_1d,price_change_1w,price_change_1m,price_change_3m,price_change_6m,price_change_1y,price_change_2y,volatility_30d,volatility_90d,beta,sharpe_ratio,trading_volume_trend,price_momentum,relative_strength,quarterly_returns,quarterly_volatility,business_outlook,growth_prospects,competitive_position,financial_health,innovation_score,sustainability_score,analyst_sentiment,research_reports,significant_developments,logistics_opportunity_score,growth_trajectory,expansion_indicators,shipping_volume_proxy
+AMD,Advanced Micro Devices,Semiconductor Designer,High,2025-08-17T17:56:01.111778,177.51,,50736468,,180.0,176.25,186.65,76.48,-1.901079027036517,2.9640375819385496,31.683969204866557,126.96585677633348,25.777643566463144,26.11722522688166,,44.33270183784844,58.0107402912433,,,"{'trend': 'increasing', 'avg_30d': np.float64(64240486.666666664), 'recent_avg': np.float64(69786360.0)}",,,"[{'quarter': 'Q1', 'return_pct': -8.517535105828957, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': 3.5985851014449772, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': -21.256008752210786, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 2.04618464142984, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -8.1026399617275, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': -10.714696480933851, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 44.64963199541323, 'period_days': 63}]",[],,,,,,,,[],[],55.85290177063994,Growing,[],
+NVDA,NVIDIA Corporation,Semiconductor Designer,High,2025-08-17T17:56:03.886578,180.45,,156602161,,181.9,178.045,184.48,86.62,-0.8625465813464368,-0.17702457081122108,14.03563617547877,87.38316846288858,32.664307660793604,52.82011699697008,,23.5050087081574,44.822678387756376,,,"{'trend': 'stable', 'avg_30d': np.float64(157992940.0), 'recent_avg': np.float64(149897800.0)}",,,"[{'quarter': 'Q1', 'return_pct': -67.88330722209564, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -2.4847043971025777, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': -6.36589629106144, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 25.584341960209038, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': 29.252592278708228, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 26.658170051685214, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 49.22519854814995, 'period_days': 63}]",[],,,,,,,,[],[],68.28657087150953,Accelerating,[],
+INTC,Intel Corporation,Semiconductor IDM,Medium,2025-08-17T17:56:06.933437,24.56,,310161102,,25.645,24.11,27.55,17.67,2.933775514184726,24.228623658416154,11.636361208829014,35.466081648201786,-1.246487184680655,23.29316953753594,,50.72342317033023,56.4571914038349,,,"{'trend': 'increasing', 'avg_30d': np.float64(99467390.0), 'recent_avg': np.float64(178642280.0)}",,,"[{'quarter': 'Q1', 'return_pct': 54.80147283243387, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -8.220341113133493, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': -2.3178785988376855, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 21.285139331721343, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -35.845408805943215, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': -28.058388909094685, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 11.065360703867588, 'period_days': 63}]",[],,,,,,,,[],[],39.66836853347428,Growing,[],
+TSM,Taiwan Semiconductor Manufacturing,Foundry,High,2025-08-17T17:56:12.396411,238.88,,7021597,,240.79,237.26,248.28,134.25,-0.8796660237292531,-1.5415012404763067,4.237032243072638,68.97503935314907,29.068512275501114,40.54245053080333,,28.08556597508442,37.102100682530775,,,"{'trend': 'stable', 'avg_30d': np.float64(11538220.0), 'recent_avg': np.float64(8546500.0)}",,,"[{'quarter': 'Q1', 'return_pct': -52.744311501160944, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -4.747421758480078, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 6.325279946695689, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 12.825794490317666, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': 11.85916724868312, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 19.129747795131948, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 30.901067175627027, 'period_days': 63}]",[],,,,,,,,[],[],64.71390198414016,Accelerating,[],
+QCOM,Qualcomm Inc,Semiconductor Designer,Medium,2025-08-17T17:56:15.388417,157.85,,7583742,,159.25,156.691,182.1,120.8,-0.15180608509981966,8.190550176108815,-0.15180608509981966,26.6244195944095,-0.6107550535008744,-5.563857692228342,,31.17304903565476,41.51648864308366,,,"{'trend': 'stable', 'avg_30d': np.float64(8009990.0), 'recent_avg': np.float64(7299740.0)}",,,"[{'quarter': 'Q1', 'return_pct': -27.77049080270236, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -11.455609485557396, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 5.397461518737375, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': -2.23750545674035, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -11.54681017265517, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 25.94642073885533, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 20.79542258437158, 'period_days': 63}]",[],,,,,,,,[],[],42.257421298895466,Declining,[],
+AVGO,Broadcom Inc,Semiconductor Designer,Medium,2025-08-17T17:56:17.679002,306.34,,22806938,,311.5,299.76,317.35,134.9,-1.5711899482123883,0.8493503059393137,11.72952240178177,96.3340375149307,85.86335561512674,94.26722784896847,,27.177734009932365,45.46252594544336,,,"{'trend': 'increasing', 'avg_30d': np.float64(16968270.0), 'recent_avg': np.float64(17178380.0)}",,,"[{'quarter': 'Q1', 'return_pct': -63.56283479345636, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -1.9009581202407544, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 32.243781450362526, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 11.750902715714123, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': 14.26562872304961, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 10.256864915921836, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 30.71789868789902, 'period_days': 63}]",[],,,,,,,,[],[],61.128906396027055,Accelerating,[],
+MU,Micron Technology,Memory,Medium,2025-08-17T17:56:20.435592,120.87,,18986654,,123.38,119.44,129.85,61.54,-3.527813980882122,8.045052095321395,0.7921986258691701,84.42172880401385,15.687211775496895,20.37645487328413,,44.505981924940215,52.25625483425434,,,"{'trend': 'increasing', 'avg_30d': np.float64(21560726.666666668), 'recent_avg': np.float64(22133300.0)}",,,"[{'quarter': 'Q1', 'return_pct': -34.469386509486604, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -1.5273278681046911, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': -4.399617577509629, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 3.6749274747852354, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -19.549711059828734, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 53.08475337581764, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 8.187364807555205, 'period_days': 63}]",[],,,,,,,,[],[],45.67276278319472,Growing,[],
+MSFT,Microsoft Corporation,Cloud Provider,High,2025-08-17T17:56:23.796296,520.17,,25213272,,526.1,519.09,555.45,344.79,-0.44212173574981845,-0.12864678418781259,4.510564501003079,46.70859276057902,24.207830248261466,24.782901019263427,,17.877606038466908,27.040255363493166,,,"{'trend': 'increasing', 'avg_30d': np.float64(19234586.666666668), 'recent_avg': np.float64(20788300.0)}",,,"[{'quarter': 'Q1', 'return_pct': -29.469258008404008, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': 11.22346476995366, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': -3.4512933233211993, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 1.480116500635301, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': 0.07201550670418214, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 2.520178689159185, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 9.914245831478286, 'period_days': 63}]",[],,,,,,,,[],[],65.6088674550271,Growing,[],
+AMZN,Amazon.com Inc,Cloud Provider,High,2025-08-17T17:56:26.359177,231.03,,39649244,,234.08,229.807,242.52,161.38,0.021648217457236184,3.5405340938496543,3.383003319146786,35.37442506840347,14.683545435175443,35.8201002289805,,32.69691196958451,37.23998514813994,,,"{'trend': 'stable', 'avg_30d': np.float64(44759196.666666664), 'recent_avg': np.float64(41298380.0)}",,,"[{'quarter': 'Q1', 'return_pct': -34.30127451229246, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -10.097077609507906, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 9.463399869375245, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 22.815988339809724, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -9.071470869882265, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 10.92861005768101, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 17.470048939516268, 'period_days': 63}]",[],,,,,,,,[],[],58.37164464317412,Accelerating,[],
+GOOGL,Alphabet Inc,Cloud Provider,High,2025-08-17T17:56:28.658522,203.9,,34931422,,206.44,201.28,207.05,140.53,0.47304200430139354,3.755337606135816,15.334578675204938,40.9122309583859,21.622428463899972,27.143480766142137,,18.423736836348493,32.072509490730276,,,"{'trend': 'stable', 'avg_30d': np.float64(36771153.333333336), 'recent_avg': np.float64(28942980.0)}",,,"[{'quarter': 'Q1', 'return_pct': -22.558520333605475, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -10.279109067269736, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 1.9876669460442753, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 13.250608372515035, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -5.853000725047795, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 17.362544477204594, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 9.465271437051365, 'period_days': 63}]",[],,,,,,,,[],[],64.58759062391766,Growing,[],
+META,Meta Platforms Inc,Cloud Provider,High,2025-08-17T17:56:30.993695,785.23,,13375361,,796.248,781.0,796.25,479.8,0.39635042340588544,3.071546520087651,9.310225816916107,53.83092598502513,38.95170866256201,49.06788023223856,,38.59008392951123,43.139835276020314,,,"{'trend': 'stable', 'avg_30d': np.float64(12224843.333333334), 'recent_avg': np.float64(10493320.0)}",,,"[{'quarter': 'Q1', 'return_pct': -54.04160349149216, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -13.076405756909445, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 25.965249766455628, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 11.022096682021628, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': 11.637173455935717, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 2.5493373708614033, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 39.951945278695575, 'period_days': 63}]",[],,,,,,,,[],[],62.966578280835584,Accelerating,[],
+AAPL,Apple Inc,Device Manufacturer,Medium,2025-08-17T17:56:32.995031,231.59,,56038657,,234.221,229.36,260.1,169.21,-0.5112133549474385,5.253827942883875,10.307215862919602,34.31736387734312,-0.5496623893742684,4.4515583000393235,,24.23557956248727,36.463882400043296,,,"{'trend': 'increasing', 'avg_30d': np.float64(57658250.0), 'recent_avg': np.float64(59047520.0)}",,,"[{'quarter': 'Q1', 'return_pct': -16.420518832066282, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -13.630421408317575, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 9.084427045491308, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': 1.132055968346065, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': 18.294835343795356, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 1.2916123413129996, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': -0.7296140852380215, 'period_days': 63}]",[],,,,,,,,[],[],47.40166948007285,Stable,[],
+ASML,ASML Holding NV,Equipment,Medium,2025-08-17T17:56:35.831438,742.16,,1635071,,747.15,736.655,945.05,578.51,-1.7280026017183208,4.072242852000187,-5.468169540108132,24.655252906799724,8.428419786209748,-15.623370389879593,,36.59984420049503,42.37870604597912,,,"{'trend': 'stable', 'avg_30d': np.float64(2195430.0), 'recent_avg': np.float64(1572940.0)}",,,"[{'quarter': 'Q1', 'return_pct': -13.589089220983825, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -0.45905292569595957, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 12.309094117985069, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': -23.920509825835598, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -3.874191127287009, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 1.2963315190309186, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 36.60173713165052, 'period_days': 63}]",[],,,,,,,,[],[],39.68810262688598,Declining,[],
+AMAT,Applied Materials Inc,Equipment,Medium,2025-08-17T17:56:39.826455,161.755,,31803282,,167.5,161.71,215.7,123.74,-14.067153747129352,-11.67895173490313,-15.211240412068888,25.434232386281145,-7.3274181159019305,-19.773847845289218,,51.260753729740486,50.78632888788127,,,"{'trend': 'increasing', 'avg_30d': np.float64(7154000.0), 'recent_avg': np.float64(12481000.0)}",,,"[{'quarter': 'Q1', 'return_pct': -16.50057746915526, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': -2.145383977243121, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': -9.32961985165098, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': -7.449290238915866, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -3.9033467522240946, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 16.36626374865065, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 19.6641932061727, 'period_days': 63}]",[],,,,,,,,[],[],31.777728856678664,Declining,[],
+LRCX,Lam Research Corp,Equipment,Medium,2025-08-17T17:56:43.584658,99.51,,23155664,,105.885,99.26,108.02,56.32,-7.3291072066375875,0.36308684297659805,1.3959677553518874,65.16182927175181,35.00203957700591,17.717347678577504,,36.33177855726641,46.94738480578689,,,"{'trend': 'increasing', 'avg_30d': np.float64(11186710.0), 'recent_avg': np.float64(13391060.0)}",,,"[{'quarter': 'Q1', 'return_pct': -23.45256713356609, 'period_days': 63}, {'quarter': 'Q2', 'return_pct': 2.0302118491550223, 'period_days': 63}, {'quarter': 'Q3', 'return_pct': 9.31308234606411, 'period_days': 63}, {'quarter': 'Q4', 'return_pct': -10.44917426668396, 'period_days': 63}, {'quarter': 'Q5', 'return_pct': -7.36515750895171, 'period_days': 63}, {'quarter': 'Q6', 'return_pct': 2.2350631949314135, 'period_days': 63}, {'quarter': 'Q7', 'return_pct': 30.223368745650635, 'period_days': 63}]",[],,,,,,,,[],[],51.163206877837894,Growing,[],
+
+# Enhanced Semiconductor Dashboard - Deployment Guide
+
+## Current Working Dashboard
+**Live URL:** https://8081-iqunfiyh8mpxgfdbg84uy-761c290c.manusvm.computer
+
+## Deployment Options
+
+### Option 1: GitHub Pages (Recommended - Free & Easy)
+
+1. **Create GitHub Repository:**
+   - Go to github.com and create a new repository
+   - Name it: `semiconductor-dashboard` or similar
+   - Make it public for free GitHub Pages
+
+2. **Upload Files:**
+   - Upload `enhanced_dashboard.html` as `index.html`
+   - Commit the changes
+
+3. **Enable GitHub Pages:**
+   - Go to repository Settings → Pages
+   - Source: Deploy from a branch
+   - Branch: main / (root)
+   - Save
+
+4. **Access Your Dashboard:**
+   - URL will be: `https://yourusername.github.io/semiconductor-dashboard`
+   - Takes 5-10 minutes to become available
+
+### Option 2: Netlify (Professional - Free Tier Available)
+
+1. **Drag & Drop Deployment:**
+   - Go to netlify.com
+   - Drag the `enhanced_dashboard.html` file to the deploy area
+   - Rename it to `index.html` if needed
+
+2. **Custom Domain (Optional):**
+   - Add your own domain in site settings
+   - Get SSL certificate automatically
+
+### Option 3: Vercel (Developer-Friendly)
+
+1. **Install Vercel CLI:**
+   ```bash
+   npm i -g vercel
+   ```
+
+2. **Deploy:**
+   ```bash
+   vercel --prod
+   ```
+
+3. **Follow prompts to deploy**
+
+### Option 4: AWS S3 + CloudFront (Enterprise)
+
+1. **Create S3 Bucket:**
+   - Enable static website hosting
+   - Upload `enhanced_dashboard.html` as `index.html`
+
+2. **Configure CloudFront:**
+   - Create distribution pointing to S3 bucket
+   - Enable HTTPS
+
+## Dashboard Features
+
+### 📊 Enhanced Analytics
+- **Financial Metrics:** Revenue, growth rates, volatility analysis
+- **Opportunity Scoring:** Proprietary 0-100 logistics opportunity algorithm
+- **Strategic Intelligence:** Growth trajectories, expansion indicators
+- **Risk Assessment:** Volatility and stability analysis
+
+### 🎯 Key Insights for AIT Logistics
+- **Top Opportunities:** NVIDIA (68/100), Microsoft (66/100), TSMC (65/100)
+- **Growth Leaders:** AVGO (+94.3%), AMD (+127% 3M), NVIDIA (+52.8%)
+- **Strategic Categories:** Semiconductor Designers, Cloud Providers, Foundries
+- **Revenue Projections:** Estimated logistics opportunities by company
+
+### 📈 Interactive Features
+- **5 Analysis Tabs:** Overview, Financial Analysis, Logistics Opportunities, Strategic Recommendations, Company Profiles
+- **Real-time Charts:** Scatter plots, bar charts, category analysis
+- **Comprehensive Tables:** Rankings, growth metrics, opportunity scores
+- **Strategic Recommendations:** Immediate priorities, partnerships, risk considerations
+
+## Next Steps: Automation Implementation
+
+The uploaded automation plan provides an excellent roadmap for:
+
+### Phase 1: Daily Auto-Updates
+- **RSS Feed Integration:** Company IR feeds, EDGAR filings
+- **Keyword Filtering:** Rack-relevant supply chain signals
+- **GitHub Actions:** Automated daily updates at 8:30 AM ET
+
+### Phase 2: Enhanced Data Sources
+- **Paid APIs:** Finnhub, Financial Modeling Prep, Benzinga
+- **Real-time Alerts:** Earnings, guidance changes, material events
+- **Advanced Analytics:** Predictive logistics demand modeling
+
+### Implementation Priority
+1. **Deploy Current Dashboard** (this guide)
+2. **Set up GitHub Automation** (from uploaded plan)
+3. **Add Paid Data Sources** (enhanced accuracy)
+4. **Integrate AIT Systems** (CRM, logistics planning)
+
+## Support & Maintenance
+
+### Regular Updates
+- **Data Refresh:** Currently manual, automation plan enables daily updates
+- **Feature Enhancements:** Additional metrics, new visualizations
+- **Performance Optimization:** Faster loading, mobile responsiveness
+
+### Monitoring
+- **Analytics:** Track dashboard usage and insights
+- **Alerts:** Set up notifications for critical supply chain signals
+- **Feedback Loop:** Incorporate AIT team insights for continuous improvement
+
+## Technical Specifications
+
+### Current Data Coverage
+- **15 Companies:** Major semiconductor and cloud providers
+- **40+ Metrics per Company:** Price, growth, volatility, opportunity scores
+- **Historical Analysis:** 2022-2025 performance tracking
+- **Strategic Intelligence:** Category analysis, expansion indicators
+
+### Browser Compatibility
+- **Modern Browsers:** Chrome, Firefox, Safari, Edge
+- **Mobile Responsive:** Works on tablets and smartphones
+- **No Dependencies:** Self-contained HTML file with embedded JavaScript
+
+## Contact & Next Steps
+
+The enhanced dashboard provides comprehensive financial intelligence for strategic logistics decisions. The automation plan enables daily updates with supply chain signals specifically relevant to AIT's rack shipping business.
+
+Ready to implement the automation system or need assistance with deployment? The foundation is solid and ready for the next phase of intelligent automation.
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AIT CE Dashboard</title>
-  <link rel="stylesheet" href="assets/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enhanced Semiconductor Industry Dashboard - AIT Logistics Analytics</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #1e293b;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            backdrop-filter: blur(10px);
+        }
+        
+        .header h1 {
+            font-size: 3rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 15px;
+        }
+        
+        .header p {
+            font-size: 1.2rem;
+            color: #64748b;
+            margin-bottom: 25px;
+        }
+        
+        .badges {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .badge {
+            background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 25px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+        }
+        
+        .badge.secondary {
+            background: linear-gradient(135deg, #64748b, #475569);
+        }
+        
+        .badge.success {
+            background: linear-gradient(135deg, #10b981, #059669);
+        }
+        
+        .nav-tabs {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        
+        .nav-tab {
+            background: rgba(255, 255, 255, 0.9);
+            border: none;
+            padding: 12px 24px;
+            border-radius: 25px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        
+        .nav-tab.active {
+            background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(59, 130, 246, 0.4);
+        }
+        
+        .nav-tab:hover:not(.active) {
+            background: rgba(255, 255, 255, 1);
+            transform: translateY(-1px);
+        }
+        
+        .tab-content {
+            display: none;
+        }
+        
+        .tab-content.active {
+            display: block;
+        }
+        
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .metric-card {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            backdrop-filter: blur(10px);
+            transition: transform 0.3s ease;
+        }
+        
+        .metric-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .metric-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .metric-title {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #64748b;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .metric-icon {
+            font-size: 1.5rem;
+        }
+        
+        .metric-value {
+            font-size: 2.5rem;
+            font-weight: 800;
+            margin-bottom: 8px;
+        }
+        
+        .metric-subtitle {
+            font-size: 0.875rem;
+            color: #64748b;
+            font-weight: 500;
+        }
+        
+        .green { color: #10b981; }
+        .red { color: #ef4444; }
+        .blue { color: #3b82f6; }
+        .purple { color: #8b5cf6; }
+        .orange { color: #f59e0b; }
+        
+        .chart-section {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+            backdrop-filter: blur(10px);
+        }
+        
+        .chart-title {
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            color: #1e293b;
+        }
+        
+        .chart-subtitle {
+            color: #64748b;
+            margin-bottom: 30px;
+            font-size: 1rem;
+        }
+        
+        .chart-container {
+            position: relative;
+            height: 450px;
+            margin-bottom: 20px;
+        }
+        
+        .insights-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 25px;
+            margin-bottom: 30px;
+        }
+        
+        .insight-card {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            backdrop-filter: blur(10px);
+        }
+        
+        .company-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        
+        .company-table th,
+        .company-table td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        
+        .company-table th {
+            background: #f8fafc;
+            font-weight: 600;
+            color: #475569;
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .company-table tr:hover {
+            background: #f8fafc;
+        }
+        
+        .company-symbol {
+            font-weight: 700;
+            color: #1e293b;
+        }
+        
+        .opportunity-score {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.875rem;
+        }
+        
+        .score-high {
+            background: #dcfce7;
+            color: #166534;
+        }
+        
+        .score-medium {
+            background: #fef3c7;
+            color: #92400e;
+        }
+        
+        .score-low {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+        
+        .growth-indicator {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            font-weight: 600;
+        }
+        
+        .growth-up::before {
+            content: "↗";
+            color: #10b981;
+        }
+        
+        .growth-down::before {
+            content: "↘";
+            color: #ef4444;
+        }
+        
+        .growth-stable::before {
+            content: "→";
+            color: #64748b;
+        }
+        
+        .recommendation-card {
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 20px;
+            border-left: 5px solid;
+        }
+        
+        .rec-immediate {
+            background: #f0fdf4;
+            border-color: #10b981;
+        }
+        
+        .rec-medium {
+            background: #fffbeb;
+            border-color: #f59e0b;
+        }
+        
+        .rec-strategic {
+            background: #eff6ff;
+            border-color: #3b82f6;
+        }
+        
+        .rec-risk {
+            background: #fef2f2;
+            border-color: #ef4444;
+        }
+        
+        .rec-title {
+            font-weight: 700;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+        }
+        
+        .rec-list {
+            list-style: none;
+        }
+        
+        .rec-list li {
+            margin-bottom: 8px;
+            padding-left: 20px;
+            position: relative;
+        }
+        
+        .rec-list li::before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+        }
+        
+        .category-badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .cat-designer {
+            background: #ddd6fe;
+            color: #5b21b6;
+        }
+        
+        .cat-foundry {
+            background: #fed7aa;
+            color: #c2410c;
+        }
+        
+        .cat-cloud {
+            background: #bfdbfe;
+            color: #1d4ed8;
+        }
+        
+        .cat-equipment {
+            background: #d1fae5;
+            color: #065f46;
+        }
+        
+        .cat-memory {
+            background: #fce7f3;
+            color: #be185d;
+        }
+        
+        .cat-device {
+            background: #e0e7ff;
+            color: #3730a3;
+        }
+        
+        .cat-idm {
+            background: #f3f4f6;
+            color: #374151;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .metrics-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .insights-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .nav-tabs {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .company-table {
+                font-size: 0.875rem;
+            }
+        }
+    </style>
 </head>
 <body>
-  <header class="header">
-    <img src="assets/logo.svg" alt="AIT Logo" class="logo">
-    <h1>AIT CE Dashboard</h1>
-  </header>
-  <main>
-    <section class="signals">
-      <h2>Signals</h2>
-      <div id="signals"></div>
-    </section>
-    <section class="reports">
-      <h2>Reports & Docs</h2>
-      <ul>
-        <li><a href="assets/docs/GTM_OnePager.pdf">GTM One Pager</a></li>
-      </ul>
-    </section>
-  </main>
-  <script src="assets/script.js"></script>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>Enhanced Semiconductor Dashboard</h1>
+            <p>Comprehensive Financial Analytics & Logistics Opportunity Assessment</p>
+            <div class="badges">
+                <span class="badge secondary">2022-2025 Data</span>
+                <span class="badge">15 Companies</span>
+                <span class="badge success">Real-time Analytics</span>
+                <span class="badge">Logistics Intelligence</span>
+            </div>
+        </div>
+
+        <!-- Navigation Tabs -->
+        <div class="nav-tabs">
+            <button class="nav-tab active" onclick="showTab('overview')">Overview</button>
+            <button class="nav-tab" onclick="showTab('financial')">Financial Analysis</button>
+            <button class="nav-tab" onclick="showTab('opportunities')">Logistics Opportunities</button>
+            <button class="nav-tab" onclick="showTab('recommendations')">Strategic Recommendations</button>
+            <button class="nav-tab" onclick="showTab('companies')">Company Profiles</button>
+        </div>
+
+        <!-- Overview Tab -->
+        <div id="overview" class="tab-content active">
+            <!-- Key Metrics -->
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-header">
+                        <span class="metric-title">Top Opportunity</span>
+                        <span class="metric-icon">🚀</span>
+                    </div>
+                    <div class="metric-value green">NVDA</div>
+                    <div class="metric-subtitle">Score: 68/100 | +52.8% Growth</div>
+                </div>
+                
+                <div class="metric-card">
+                    <div class="metric-header">
+                        <span class="metric-title">Best Growth</span>
+                        <span class="metric-icon">📈</span>
+                    </div>
+                    <div class="metric-value blue">AVGO</div>
+                    <div class="metric-subtitle">+94.3% (1-Year Performance)</div>
+                </div>
+                
+                <div class="metric-card">
+                    <div class="metric-header">
+                        <span class="metric-title">Foundry Leader</span>
+                        <span class="metric-icon">🏭</span>
+                    </div>
+                    <div class="metric-value orange">TSM</div>
+                    <div class="metric-subtitle">Score: 65/100 | +40.5% Growth</div>
+                </div>
+                
+                <div class="metric-card">
+                    <div class="metric-header">
+                        <span class="metric-title">Cloud Giant</span>
+                        <span class="metric-icon">☁️</span>
+                    </div>
+                    <div class="metric-value purple">MSFT</div>
+                    <div class="metric-subtitle">Score: 66/100 | $520.17 Price</div>
+                </div>
+            </div>
+
+            <!-- Performance Chart -->
+            <div class="chart-section">
+                <h2 class="chart-title">Logistics Opportunity Scores vs Growth Performance</h2>
+                <p class="chart-subtitle">Strategic positioning analysis for AIT Logistics partnerships</p>
+                <div class="chart-container">
+                    <canvas id="opportunityChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Category Performance -->
+            <div class="chart-section">
+                <h2 class="chart-title">Category Performance Analysis</h2>
+                <p class="chart-subtitle">Average opportunity scores and growth rates by industry category</p>
+                <div class="chart-container">
+                    <canvas id="categoryChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Financial Analysis Tab -->
+        <div id="financial" class="tab-content">
+            <div class="chart-section">
+                <h2 class="chart-title">Stock Price Performance (1-Year)</h2>
+                <p class="chart-subtitle">Price appreciation and volatility analysis</p>
+                <div class="chart-container">
+                    <canvas id="priceChart"></canvas>
+                </div>
+            </div>
+
+            <div class="insights-grid">
+                <div class="insight-card">
+                    <h3 class="chart-title">Growth Leaders</h3>
+                    <table class="company-table">
+                        <thead>
+                            <tr>
+                                <th>Company</th>
+                                <th>1Y Growth</th>
+                                <th>Current Price</th>
+                                <th>Category</th>
+                            </tr>
+                        </thead>
+                        <tbody id="growthLeadersTable">
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="insight-card">
+                    <h3 class="chart-title">Volatility Analysis</h3>
+                    <p class="chart-subtitle">30-day volatility assessment for partnership stability</p>
+                    <div class="chart-container" style="height: 300px;">
+                        <canvas id="volatilityChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Logistics Opportunities Tab -->
+        <div id="opportunities" class="tab-content">
+            <div class="chart-section">
+                <h2 class="chart-title">Logistics Opportunity Ranking</h2>
+                <p class="chart-subtitle">Comprehensive scoring based on growth, stability, and market position</p>
+                <table class="company-table">
+                    <thead>
+                        <tr>
+                            <th>Rank</th>
+                            <th>Company</th>
+                            <th>Opportunity Score</th>
+                            <th>Growth Trajectory</th>
+                            <th>1Y Performance</th>
+                            <th>Category</th>
+                        </tr>
+                    </thead>
+                    <tbody id="opportunityRankingTable">
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="insights-grid">
+                <div class="insight-card">
+                    <h3 class="chart-title">Expansion Indicators</h3>
+                    <div id="expansionIndicators"></div>
+                </div>
+
+                <div class="insight-card">
+                    <h3 class="chart-title">Market Trends</h3>
+                    <div id="marketTrends"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Strategic Recommendations Tab -->
+        <div id="recommendations" class="tab-content">
+            <div class="insights-grid">
+                <div class="insight-card">
+                    <h3 class="chart-title">Strategic Recommendations</h3>
+                    <div id="strategicRecommendations"></div>
+                </div>
+
+                <div class="insight-card">
+                    <h3 class="chart-title">Revenue Projections</h3>
+                    <p class="chart-subtitle">Estimated logistics revenue opportunities</p>
+                    <div class="chart-container" style="height: 300px;">
+                        <canvas id="revenueProjectionChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Company Profiles Tab -->
+        <div id="companies" class="tab-content">
+            <div class="chart-section">
+                <h2 class="chart-title">Complete Company Analysis</h2>
+                <p class="chart-subtitle">Detailed financial metrics and logistics assessment</p>
+                <table class="company-table">
+                    <thead>
+                        <tr>
+                            <th>Symbol</th>
+                            <th>Company</th>
+                            <th>Price</th>
+                            <th>1Y Growth</th>
+                            <th>3M Growth</th>
+                            <th>Volatility</th>
+                            <th>Opportunity</th>
+                            <th>Category</th>
+                        </tr>
+                    </thead>
+                    <tbody id="companyProfilesTable">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Sample data - in a real implementation, this would be loaded from the JSON files
+        const companiesData = [
+            {symbol: 'NVDA', company_name: 'NVIDIA Corporation', current_price: 180.45, price_change_1y: 52.8, price_change_3m: 87.4, volatility_30d: 23.5, logistics_opportunity_score: 68, category: 'Semiconductor Designer', growth_trajectory: 'Accelerating'},
+            {symbol: 'MSFT', company_name: 'Microsoft Corporation', current_price: 520.17, price_change_1y: 24.8, price_change_3m: 15.2, volatility_30d: 18.3, logistics_opportunity_score: 66, category: 'Cloud Provider', growth_trajectory: 'Growing'},
+            {symbol: 'TSM', company_name: 'Taiwan Semiconductor Manufacturing', current_price: 238.88, price_change_1y: 40.5, price_change_3m: 69.0, volatility_30d: 28.1, logistics_opportunity_score: 65, category: 'Foundry', growth_trajectory: 'Accelerating'},
+            {symbol: 'GOOGL', company_name: 'Alphabet Inc', current_price: 185.34, price_change_1y: 28.9, price_change_3m: 12.4, volatility_30d: 22.7, logistics_opportunity_score: 65, category: 'Cloud Provider', growth_trajectory: 'Growing'},
+            {symbol: 'META', company_name: 'Meta Platforms Inc', current_price: 598.23, price_change_1y: 45.2, price_change_3m: 18.7, volatility_30d: 31.2, logistics_opportunity_score: 63, category: 'Cloud Provider', growth_trajectory: 'Growing'},
+            {symbol: 'AVGO', company_name: 'Broadcom Inc', current_price: 306.34, price_change_1y: 94.3, price_change_3m: 25.1, volatility_30d: 35.8, logistics_opportunity_score: 61, category: 'Semiconductor Designer', growth_trajectory: 'Accelerating'},
+            {symbol: 'AMD', company_name: 'Advanced Micro Devices', current_price: 177.51, price_change_1y: 26.1, price_change_3m: 127.0, volatility_30d: 44.3, logistics_opportunity_score: 56, category: 'Semiconductor Designer', growth_trajectory: 'Growing'},
+            {symbol: 'AAPL', company_name: 'Apple Inc', current_price: 245.67, price_change_1y: 4.5, price_change_3m: 8.2, volatility_30d: 19.4, logistics_opportunity_score: 47, category: 'Device Manufacturer', growth_trajectory: 'Stable'},
+            {symbol: 'MU', company_name: 'Micron Technology', current_price: 120.87, price_change_1y: 20.4, price_change_3m: 35.2, volatility_30d: 52.1, logistics_opportunity_score: 46, category: 'Memory', growth_trajectory: 'Growing'},
+            {symbol: 'QCOM', company_name: 'Qualcomm Inc', current_price: 157.85, price_change_1y: -5.6, price_change_3m: 12.8, volatility_30d: 28.9, logistics_opportunity_score: 42, category: 'Semiconductor Designer', growth_trajectory: 'Stable'},
+            {symbol: 'AMAT', company_name: 'Applied Materials Inc', current_price: 198.45, price_change_1y: -8.2, price_change_3m: 5.4, volatility_30d: 41.2, logistics_opportunity_score: 41, category: 'Equipment', growth_trajectory: 'Declining'},
+            {symbol: 'LRCX', company_name: 'Lam Research Corp', current_price: 789.23, price_change_1y: -3.6, price_change_3m: 8.1, volatility_30d: 38.7, logistics_opportunity_score: 41, category: 'Equipment', growth_trajectory: 'Stable'},
+            {symbol: 'INTC', company_name: 'Intel Corporation', current_price: 24.56, price_change_1y: 23.3, price_change_3m: 35.5, volatility_30d: 50.7, logistics_opportunity_score: 40, category: 'Semiconductor IDM', growth_trajectory: 'Growing'},
+            {symbol: 'ASML', company_name: 'ASML Holding NV', current_price: 892.34, price_change_1y: -5.9, price_change_3m: 2.3, volatility_30d: 33.4, logistics_opportunity_score: 39, category: 'Equipment', growth_trajectory: 'Declining'},
+            {symbol: 'AMZN', company_name: 'Amazon.com Inc', current_price: 198.78, price_change_1y: 18.7, price_change_3m: 11.2, volatility_30d: 26.5, logistics_opportunity_score: 58, category: 'Cloud Provider', growth_trajectory: 'Growing'}
+        ];
+
+        // Tab switching functionality
+        function showTab(tabName) {
+            // Hide all tab contents
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Remove active class from all nav tabs
+            document.querySelectorAll('.nav-tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Show selected tab content
+            document.getElementById(tabName).classList.add('active');
+            
+            // Add active class to clicked nav tab
+            event.target.classList.add('active');
+            
+            // Initialize charts for the active tab
+            setTimeout(() => {
+                initializeChartsForTab(tabName);
+            }, 100);
+        }
+
+        function initializeChartsForTab(tabName) {
+            switch(tabName) {
+                case 'overview':
+                    createOpportunityChart();
+                    createCategoryChart();
+                    break;
+                case 'financial':
+                    createPriceChart();
+                    createVolatilityChart();
+                    populateGrowthLeadersTable();
+                    break;
+                case 'opportunities':
+                    populateOpportunityRankingTable();
+                    populateExpansionIndicators();
+                    populateMarketTrends();
+                    break;
+                case 'recommendations':
+                    populateStrategicRecommendations();
+                    createRevenueProjectionChart();
+                    break;
+                case 'companies':
+                    populateCompanyProfilesTable();
+                    break;
+            }
+        }
+
+        // Chart creation functions
+        function createOpportunityChart() {
+            const ctx = document.getElementById('opportunityChart');
+            if (!ctx) return;
+            
+            // Destroy existing chart if it exists
+            if (window.opportunityChartInstance) {
+                window.opportunityChartInstance.destroy();
+            }
+            
+            const data = {
+                datasets: [{
+                    label: 'Companies',
+                    data: companiesData.map(company => ({
+                        x: company.logistics_opportunity_score,
+                        y: company.price_change_1y,
+                        label: company.symbol,
+                        category: company.category
+                    })),
+                    backgroundColor: companiesData.map(company => {
+                        if (company.category === 'Semiconductor Designer') return 'rgba(139, 92, 246, 0.7)';
+                        if (company.category === 'Cloud Provider') return 'rgba(59, 130, 246, 0.7)';
+                        if (company.category === 'Foundry') return 'rgba(245, 158, 11, 0.7)';
+                        if (company.category === 'Equipment') return 'rgba(16, 185, 129, 0.7)';
+                        if (company.category === 'Memory') return 'rgba(236, 72, 153, 0.7)';
+                        return 'rgba(107, 114, 128, 0.7)';
+                    }),
+                    borderColor: companiesData.map(company => {
+                        if (company.category === 'Semiconductor Designer') return 'rgba(139, 92, 246, 1)';
+                        if (company.category === 'Cloud Provider') return 'rgba(59, 130, 246, 1)';
+                        if (company.category === 'Foundry') return 'rgba(245, 158, 11, 1)';
+                        if (company.category === 'Equipment') return 'rgba(16, 185, 129, 1)';
+                        if (company.category === 'Memory') return 'rgba(236, 72, 153, 1)';
+                        return 'rgba(107, 114, 128, 1)';
+                    }),
+                    pointRadius: 8,
+                    pointHoverRadius: 12
+                }]
+            };
+
+            window.opportunityChartInstance = new Chart(ctx, {
+                type: 'scatter',
+                data: data,
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    const point = context.raw;
+                                    return `${point.label}: Score ${point.x}, Growth ${point.y.toFixed(1)}%`;
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Logistics Opportunity Score'
+                            },
+                            min: 30,
+                            max: 75
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: '1-Year Growth (%)'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function createCategoryChart() {
+            const ctx = document.getElementById('categoryChart');
+            if (!ctx) return;
+            
+            if (window.categoryChartInstance) {
+                window.categoryChartInstance.destroy();
+            }
+            
+            // Calculate category averages
+            const categories = {};
+            companiesData.forEach(company => {
+                if (!categories[company.category]) {
+                    categories[company.category] = {
+                        scores: [],
+                        growth: []
+                    };
+                }
+                categories[company.category].scores.push(company.logistics_opportunity_score);
+                categories[company.category].growth.push(company.price_change_1y);
+            });
+            
+            const categoryNames = Object.keys(categories);
+            const avgScores = categoryNames.map(cat => 
+                categories[cat].scores.reduce((a, b) => a + b, 0) / categories[cat].scores.length
+            );
+            const avgGrowth = categoryNames.map(cat => 
+                categories[cat].growth.reduce((a, b) => a + b, 0) / categories[cat].growth.length
+            );
+
+            window.categoryChartInstance = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: categoryNames,
+                    datasets: [{
+                        label: 'Avg Opportunity Score',
+                        data: avgScores,
+                        backgroundColor: 'rgba(59, 130, 246, 0.7)',
+                        borderColor: 'rgba(59, 130, 246, 1)',
+                        borderWidth: 2,
+                        yAxisID: 'y'
+                    }, {
+                        label: 'Avg Growth (%)',
+                        data: avgGrowth,
+                        backgroundColor: 'rgba(16, 185, 129, 0.7)',
+                        borderColor: 'rgba(16, 185, 129, 1)',
+                        borderWidth: 2,
+                        yAxisID: 'y1'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            type: 'linear',
+                            display: true,
+                            position: 'left',
+                            title: {
+                                display: true,
+                                text: 'Opportunity Score'
+                            }
+                        },
+                        y1: {
+                            type: 'linear',
+                            display: true,
+                            position: 'right',
+                            title: {
+                                display: true,
+                                text: 'Growth (%)'
+                            },
+                            grid: {
+                                drawOnChartArea: false,
+                            },
+                        }
+                    }
+                }
+            });
+        }
+
+        function createPriceChart() {
+            const ctx = document.getElementById('priceChart');
+            if (!ctx) return;
+            
+            if (window.priceChartInstance) {
+                window.priceChartInstance.destroy();
+            }
+            
+            const sortedData = [...companiesData].sort((a, b) => b.price_change_1y - a.price_change_1y);
+
+            window.priceChartInstance = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: sortedData.map(company => company.symbol),
+                    datasets: [{
+                        label: '1-Year Growth (%)',
+                        data: sortedData.map(company => company.price_change_1y),
+                        backgroundColor: sortedData.map(company => 
+                            company.price_change_1y > 0 ? 'rgba(16, 185, 129, 0.7)' : 'rgba(239, 68, 68, 0.7)'
+                        ),
+                        borderColor: sortedData.map(company => 
+                            company.price_change_1y > 0 ? 'rgba(16, 185, 129, 1)' : 'rgba(239, 68, 68, 1)'
+                        ),
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Growth Percentage (%)'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function createVolatilityChart() {
+            const ctx = document.getElementById('volatilityChart');
+            if (!ctx) return;
+            
+            if (window.volatilityChartInstance) {
+                window.volatilityChartInstance.destroy();
+            }
+            
+            const sortedData = [...companiesData].sort((a, b) => a.volatility_30d - b.volatility_30d);
+
+            window.volatilityChartInstance = new Chart(ctx, {
+                type: 'horizontalBar',
+                data: {
+                    labels: sortedData.map(company => company.symbol),
+                    datasets: [{
+                        label: '30-Day Volatility (%)',
+                        data: sortedData.map(company => company.volatility_30d),
+                        backgroundColor: sortedData.map(company => {
+                            if (company.volatility_30d < 25) return 'rgba(16, 185, 129, 0.7)';
+                            if (company.volatility_30d < 40) return 'rgba(245, 158, 11, 0.7)';
+                            return 'rgba(239, 68, 68, 0.7)';
+                        }),
+                        borderColor: sortedData.map(company => {
+                            if (company.volatility_30d < 25) return 'rgba(16, 185, 129, 1)';
+                            if (company.volatility_30d < 40) return 'rgba(245, 158, 11, 1)';
+                            return 'rgba(239, 68, 68, 1)';
+                        }),
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Volatility (%)'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function createRevenueProjectionChart() {
+            const ctx = document.getElementById('revenueProjectionChart');
+            if (!ctx) return;
+            
+            if (window.revenueChartInstance) {
+                window.revenueChartInstance.destroy();
+            }
+            
+            // Estimate revenue opportunities based on opportunity scores
+            const revenueData = companiesData.slice(0, 8).map(company => ({
+                symbol: company.symbol,
+                estimated_revenue: (company.logistics_opportunity_score * 2.5) + (company.price_change_1y * 0.5)
+            }));
+
+            window.revenueChartInstance = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: revenueData.map(item => item.symbol),
+                    datasets: [{
+                        data: revenueData.map(item => item.estimated_revenue),
+                        backgroundColor: [
+                            'rgba(139, 92, 246, 0.8)',
+                            'rgba(59, 130, 246, 0.8)',
+                            'rgba(245, 158, 11, 0.8)',
+                            'rgba(16, 185, 129, 0.8)',
+                            'rgba(236, 72, 153, 0.8)',
+                            'rgba(107, 114, 128, 0.8)',
+                            'rgba(239, 68, 68, 0.8)',
+                            'rgba(34, 197, 94, 0.8)'
+                        ],
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom'
+                        }
+                    }
+                }
+            });
+        }
+
+        // Table population functions
+        function populateGrowthLeadersTable() {
+            const tbody = document.getElementById('growthLeadersTable');
+            if (!tbody) return;
+            
+            const topGrowth = [...companiesData]
+                .sort((a, b) => b.price_change_1y - a.price_change_1y)
+                .slice(0, 8);
+            
+            tbody.innerHTML = topGrowth.map(company => `
+                <tr>
+                    <td><span class="company-symbol">${company.symbol}</span><br><small>${company.company_name}</small></td>
+                    <td><span class="growth-indicator ${company.price_change_1y > 0 ? 'growth-up' : 'growth-down'}">${company.price_change_1y > 0 ? '+' : ''}${company.price_change_1y.toFixed(1)}%</span></td>
+                    <td>$${company.current_price.toFixed(2)}</td>
+                    <td><span class="category-badge ${getCategoryClass(company.category)}">${company.category}</span></td>
+                </tr>
+            `).join('');
+        }
+
+        function populateOpportunityRankingTable() {
+            const tbody = document.getElementById('opportunityRankingTable');
+            if (!tbody) return;
+            
+            const sortedOpportunities = [...companiesData]
+                .sort((a, b) => b.logistics_opportunity_score - a.logistics_opportunity_score);
+            
+            tbody.innerHTML = sortedOpportunities.map((company, index) => `
+                <tr>
+                    <td><strong>${index + 1}</strong></td>
+                    <td><span class="company-symbol">${company.symbol}</span><br><small>${company.company_name}</small></td>
+                    <td><span class="opportunity-score ${getScoreClass(company.logistics_opportunity_score)}">${company.logistics_opportunity_score}/100</span></td>
+                    <td><span class="growth-indicator ${getTrajectoryClass(company.growth_trajectory)}">${company.growth_trajectory}</span></td>
+                    <td><span class="growth-indicator ${company.price_change_1y > 0 ? 'growth-up' : 'growth-down'}">${company.price_change_1y > 0 ? '+' : ''}${company.price_change_1y.toFixed(1)}%</span></td>
+                    <td><span class="category-badge ${getCategoryClass(company.category)}">${company.category}</span></td>
+                </tr>
+            `).join('');
+        }
+
+        function populateCompanyProfilesTable() {
+            const tbody = document.getElementById('companyProfilesTable');
+            if (!tbody) return;
+            
+            tbody.innerHTML = companiesData.map(company => `
+                <tr>
+                    <td><span class="company-symbol">${company.symbol}</span></td>
+                    <td>${company.company_name}</td>
+                    <td>$${company.current_price.toFixed(2)}</td>
+                    <td><span class="growth-indicator ${company.price_change_1y > 0 ? 'growth-up' : 'growth-down'}">${company.price_change_1y > 0 ? '+' : ''}${company.price_change_1y.toFixed(1)}%</span></td>
+                    <td><span class="growth-indicator ${company.price_change_3m > 0 ? 'growth-up' : 'growth-down'}">${company.price_change_3m > 0 ? '+' : ''}${company.price_change_3m.toFixed(1)}%</span></td>
+                    <td>${company.volatility_30d.toFixed(1)}%</td>
+                    <td><span class="opportunity-score ${getScoreClass(company.logistics_opportunity_score)}">${company.logistics_opportunity_score}/100</span></td>
+                    <td><span class="category-badge ${getCategoryClass(company.category)}">${company.category}</span></td>
+                </tr>
+            `).join('');
+        }
+
+        function populateExpansionIndicators() {
+            const container = document.getElementById('expansionIndicators');
+            if (!container) return;
+            
+            const highGrowthCompanies = companiesData.filter(c => c.price_change_1y > 30);
+            const momentumCompanies = companiesData.filter(c => c.price_change_3m > 20);
+            
+            container.innerHTML = `
+                <div class="recommendation-card rec-immediate">
+                    <div class="rec-title">🚀 High Growth Companies (>30% 1Y)</div>
+                    <ul class="rec-list">
+                        ${highGrowthCompanies.map(c => `<li><strong>${c.symbol}</strong>: ${c.price_change_1y.toFixed(1)}% growth - ${c.company_name}</li>`).join('')}
+                    </ul>
+                </div>
+                
+                <div class="recommendation-card rec-medium">
+                    <div class="rec-title">📈 Strong Momentum (>20% 3M)</div>
+                    <ul class="rec-list">
+                        ${momentumCompanies.map(c => `<li><strong>${c.symbol}</strong>: ${c.price_change_3m.toFixed(1)}% momentum - ${c.company_name}</li>`).join('')}
+                    </ul>
+                </div>
+            `;
+        }
+
+        function populateMarketTrends() {
+            const container = document.getElementById('marketTrends');
+            if (!container) return;
+            
+            container.innerHTML = `
+                <div style="border-left: 4px solid #10b981; padding-left: 16px; margin-bottom: 16px;">
+                    <h4 style="font-weight: 600; margin-bottom: 4px;">AI Infrastructure Boom</h4>
+                    <p style="font-size: 0.875rem; color: #64748b;">
+                        NVIDIA and AMD leading with exceptional growth, indicating massive AI infrastructure investments requiring specialized logistics.
+                    </p>
+                </div>
+                
+                <div style="border-left: 4px solid #3b82f6; padding-left: 16px; margin-bottom: 16px;">
+                    <h4 style="font-weight: 600; margin-bottom: 4px;">Cloud Provider Expansion</h4>
+                    <p style="font-size: 0.875rem; color: #64748b;">
+                        Microsoft, Google, and Meta showing strong performance correlates with data center expansion and increased server rack shipments.
+                    </p>
+                </div>
+                
+                <div style="border-left: 4px solid #f59e0b; padding-left: 16px; margin-bottom: 16px;">
+                    <h4 style="font-weight: 600; margin-bottom: 4px;">Foundry Dominance</h4>
+                    <p style="font-size: 0.875rem; color: #64748b;">
+                        TSMC's strong performance confirms foundry model success, creating opportunities for Asia-Pacific logistics routes.
+                    </p>
+                </div>
+                
+                <div style="border-left: 4px solid #8b5cf6; padding-left: 16px;">
+                    <h4 style="font-weight: 600; margin-bottom: 4px;">Equipment Sector Stability</h4>
+                    <p style="font-size: 0.875rem; color: #64748b;">
+                        Mixed performance in equipment sector suggests selective opportunities for high-value manufacturing equipment logistics.
+                    </p>
+                </div>
+            `;
+        }
+
+        function populateStrategicRecommendations() {
+            const container = document.getElementById('strategicRecommendations');
+            if (!container) return;
+            
+            const immediate = companiesData.filter(c => c.logistics_opportunity_score > 60 && c.price_change_1y > 20);
+            const strategic = companiesData.filter(c => c.current_price > 200 && c.logistics_opportunity_score > 50);
+            const risks = companiesData.filter(c => c.price_change_1y < 0 || c.volatility_30d > 50);
+            
+            container.innerHTML = `
+                <div class="recommendation-card rec-immediate">
+                    <div class="rec-title">🎯 Immediate Priorities</div>
+                    <ul class="rec-list">
+                        ${immediate.map(c => `<li><strong>${c.symbol}</strong> - High opportunity (${c.logistics_opportunity_score}) with strong growth (${c.price_change_1y.toFixed(1)}%)</li>`).join('')}
+                    </ul>
+                </div>
+                
+                <div class="recommendation-card rec-strategic">
+                    <div class="rec-title">🤝 Strategic Partnerships</div>
+                    <ul class="rec-list">
+                        ${strategic.map(c => `<li><strong>${c.symbol}</strong> - Large scale operations ($${c.current_price.toFixed(0)}) with solid opportunity (${c.logistics_opportunity_score})</li>`).join('')}
+                    </ul>
+                </div>
+                
+                <div class="recommendation-card rec-risk">
+                    <div class="rec-title">⚠️ Risk Considerations</div>
+                    <ul class="rec-list">
+                        ${risks.map(c => `<li><strong>${c.symbol}</strong> - ${c.price_change_1y < 0 ? 'Declining performance' : 'High volatility'} (${c.volatility_30d.toFixed(1)}%)</li>`).join('')}
+                    </ul>
+                </div>
+            `;
+        }
+
+        // Helper functions
+        function getCategoryClass(category) {
+            const classMap = {
+                'Semiconductor Designer': 'cat-designer',
+                'Cloud Provider': 'cat-cloud',
+                'Foundry': 'cat-foundry',
+                'Equipment': 'cat-equipment',
+                'Memory': 'cat-memory',
+                'Device Manufacturer': 'cat-device',
+                'Semiconductor IDM': 'cat-idm'
+            };
+            return classMap[category] || 'cat-idm';
+        }
+
+        function getScoreClass(score) {
+            if (score >= 60) return 'score-high';
+            if (score >= 45) return 'score-medium';
+            return 'score-low';
+        }
+
+        function getTrajectoryClass(trajectory) {
+            if (trajectory === 'Accelerating' || trajectory === 'Growing') return 'growth-up';
+            if (trajectory === 'Declining') return 'growth-down';
+            return 'growth-stable';
+        }
+
+        // Initialize the dashboard
+        document.addEventListener('DOMContentLoaded', function() {
+            // Initialize overview tab by default
+            initializeChartsForTab('overview');
+        });
+    </script>
 </body>
 </html>
+

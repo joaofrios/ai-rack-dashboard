@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AIT CE Dashboard</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="header">
+    <img src="assets/logo.svg" alt="AIT Logo" class="logo">
+    <h1>AIT CE Dashboard</h1>
+  </header>
+  <main>
+    <section class="signals">
+      <h2>Signals</h2>
+      <div id="signals"></div>
+    </section>
+    <section class="reports">
+      <h2>Reports & Docs</h2>
+      <ul>
+        <li><a href="assets/docs/GTM_OnePager.pdf">GTM One Pager</a></li>
+      </ul>
+    </section>
+  </main>
+  <script src="assets/script.js"></script>
+</body>
+</html>
